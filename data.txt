@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,HALA BOLLYWOOD                                          vip _UAE
+#EXTINF:0,HALA BOLLYWOOD SOMETHING                                      vip _UAE
 http://original4.ddns.net:25461/www.m4u-iptv.com/skype__________live:be1_36/39240
 #EXTINF:0,HALA DRAMA                                           vip _UAE
 http://original4.ddns.net:25461/www.m4u-iptv.com/skype__________live:be1_36/39250
