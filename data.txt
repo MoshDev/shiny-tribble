@@ -1,279 +1,195 @@
 
-#EXTINF:-1 group-title="Arabic Channels",24 TV
+#EXTINF:-1 group-title="Arabic Channels",طيور الجنة ويب
 #EXTVLCOPT:
-http://mn-l.mncdn.com/kanal24/kanal243/radyodelisi.m3u8
+http://www.elahmad.com/tv/vlc/player_glarab.php?id=toyoraljanah
 
-#EXTINF:-1 group-title="Arabic Channels",2M المغرب القناة الثانية
+#EXTINF:-1 group-title="Arabic Channels",طيور بيبي
 #EXTVLCOPT:
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
+http://95.170.215.124/live/disk1/TOYOR-BABY/anevia1/TOYOR-BABY-video=790400-audio_AACL_ara_160000_34=160000.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",360 TV
+#EXTINF:-1 group-title="Arabic Channels",طيور بيبي بديل
 #EXTVLCOPT:
-http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/chunklist_w0.m3u8
+http://95.170.215.124/live/disk1/TOYOR-BABY/anevia1/TOYOR-BABY-video=790400-audio_AACL_ara_160000_34=160000.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",ANB عراق
+#EXTINF:-1 group-title="Arabic Channels",سبيس تون
 #EXTVLCOPT:
-http://streaming.i-sat.tv:1935/live/anb.stream_360p/chunklist_w1062362058.m3u8
+http://95.170.215.124/live/disk1/Spacetoon/anevia1/Spacetoon-video=1279600-audio_AACL_ara_160000_34=160000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",كراميش
+#EXTVLCOPT:
+http://95.170.215.124/live/disk1/Karamish/anevia1/Karamish-video=1279600-audio_AACL_ara_160000_34=160000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",كراميش رابط بديل
+#EXTVLCOPT:
+http://alwhdat.net/stream/live/karameesh/
+
+#EXTINF:-1 group-title="Arabic Channels",براعم
+#EXTVLCOPT:
+http://livecdnh2.tvanywhere.ae/ss/baraeim.isml/Manifest
+
+#EXTINF:-1 group-title="Movies",مرح تي في أطفال
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=13635.mp4
+
+#EXTINF:-1 group-title="Arabic Channels",سمسم
+#EXTVLCOPT:
+http://wowzaprod188-i.akamaihd.net/hls/live/729648/aef554b6/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",طه
+#EXTVLCOPT:
+http://alwhdat.net/stream/live/taha/
+
+#EXTINF:-1 group-title="Arabic Channels",Sat 7 Kids
+#EXTVLCOPT:
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",كرتون بيتوورك عربية
+#EXTVLCOPT:
+http://95.170.215.124/live/disk1/CN_Arabia/anevia1/CN_Arabia-video=1279600-audio_AACL_eng_160000_34=160000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",ماجد
+#EXTVLCOPT:
+http://95.170.215.124/live/disk1/Majid_Kids/anevia1/Majid_Kids.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",جيم
+#EXTVLCOPT:
+http://livecdnh2.tvanywhere.ae/ss/jeem.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",ديزني 2
+#EXTVLCOPT:
+http://176.31.225.191:8081/live/Cartoon/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",المصحف المعلم للأطفال
+#EXTVLCOPT:
+http://www.elahmad.com/quran
+
+#EXTINF:-1 group-title="Arabic Channels",SBC
+#EXTVLCOPT:
+https://cllive.itworkscdn.net/sbclive/token=nva=1547560493~dirs=1~hash=081222699fa5a80277e6c/sbc.smil/chunklist_b2000000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",روتانا سينما
+#EXTVLCOPT:
+http://livecdnh3.tvanywhere.ae/ss/rotcinema.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",روتانا أفلام
+#EXTVLCOPT:
+http://livecdnh3.tvanywhere.ae/ss/rotaflam.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",روتانا موسيقى
+#EXTVLCOPT:
+http://livecdnh3.tvanywhere.ae/ss/rotmusic.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",روتانا مصرية
+#EXTVLCOPT:
+http://www.teledunet.tv:8888/rotana_masriya.m3u8?channel=rotana_masriya&idu=ros_86570442900
+
+#EXTINF:-1 group-title="Arabic Channels",روتانا دراما
+#EXTVLCOPT:sky123
+http://livecdnh3.tvanywhere.ae/ss/rotmas.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",روتانا كليب
+#EXTVLCOPT:
+http://livecdnh3.tvanywhere.ae/ss/rotclip.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",روتانا خليجية
+#EXTVLCOPT:
+http://89.163.140.211:8787/ROTANA_KHALIJI/index.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",روتانا كلاسيك
+#EXTVLCOPT:
+http://185.27.116.54:1935/livestream/rtca/chunklist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",روتانا دراما بديل
+#EXTVLCOPT:
+http://www.elahmad.com/tv/filmo.php?file=2612
+
+#EXTINF:-1 group-title="Arabic Channels",روتانا سينما بديل
+#EXTVLCOPT:
+http://www.elahmad.com/tv/filmo.php?file=2615
+
+#EXTINF:-1 group-title="Arabic Channels",روتانا أفلام بديل
+#EXTVLCOPT:
+http://www.elahmad.com/tv/watch.php?id=rotana_aflam
+
+#EXTINF:-1 group-title="Arabic Channels",روتانا كلاسيك بديل
+#EXTVLCOPT:
+http://www.elahmad.com/tv/filmo.php?file=2609
+
+#EXTINF:-1 group-title="Arabic Channels",روتانا خليجية بديل
+#EXTVLCOPT:
+http://www.elahmad.com/tv/watchtv.php?id=rotana_khlijia
+
+#EXTINF:-1 group-title="Arabic Channels",روتانا موسيقى بديل
+#EXTVLCOPT:
+http://www.elahmad.com/tv/filmo.php?file=2600
+
+#EXTINF:-1 group-title="Arabic Channels",سورية دراما
+#EXTVLCOPT:
+http://82.137.248.16:1935/Drama/stream20112018/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",التربوية السورية
+#EXTVLCOPT:
+http://82.137.248.16:1935/SEdu/stream20112018/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الفضائية السورية
+#EXTVLCOPT:
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",شام تي في
+#EXTVLCOPT:
+http://shamfm.grtvstream.com:1984/live/shamfm_SD.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",جدول المباريات
+#EXTVLCOPT:
+https://www.hdkoora.com/2018/10/kora-extra.html?m=0
+
+#EXTINF:-1 group-title="Arabic Channels",نور الشام
+#EXTVLCOPT:
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_nour
+
+#EXTINF:-1 group-title="Arabic Channels",لنا
+#EXTVLCOPT:
+https://svs.itworkscdn.net/lanatvlive/lana/chunklist_DVR.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",لنا بديل
+#EXTVLCOPT:
+http://95.170.215.124/live/disk1/LANATV/anevia1/LANATV.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",سما
+#EXTVLCOPT:
+https://svs.itworkscdn.net/samatvlive/sama.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",سما رابط بديل
+#EXTVLCOPT:
+http://www.elahmad.com/tv/vlc/player_glarab.php?id=samatv
+
+#EXTINF:-1 group-title="Arabic Channels",سوريانا
+#EXTVLCOPT:
+http://82.137.248.16:1935/Souryana/stream20112018/chunklist_w747104219.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",حلب اليوم
+#EXTVLCOPT:
+http://streaming.tootvs.com:1935/8010/8010/chunklist_w1767033437.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",المشرق
+#EXTVLCOPT:
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",اوغاريت
+#EXTVLCOPT:
+http://82.137.248.16:1935/Ugarit/stream20112018/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",سوريا
+#EXTVLCOPT:
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الأخبارية السورية
+#EXTVLCOPT:
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
 
 #EXTINF:-1 group-title="Arabic Channels",ANN
 #EXTVLCOPT:
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",ART aflam 1
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.120/hls/m3u8/ART-AFLAM-1.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",ART aflam 1 بديل
-#EXTVLCOPT:
-http://89.163.140.211:8787/ARTAflem1/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",ART aflam 2
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.120/hls/m3u8/ART-AFLAM-2.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",ART aflam 2 بديل
-#EXTVLCOPT:
-http://89.163.140.211:8787/ARTAflem2/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",ART حكايات 1
-#EXTVLCOPT:Lavf/56.15.102
-http://89.163.140.211:8787/ARTHikayat1/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",ART حكايات 1 بديل
-#EXTVLCOPT:
-http://89.163.140.211:8787/ARTHikayat1/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",ART حكايات 2
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.120/hls/m3u8/ART-HEKAYAT-2.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",ART حكايات 2 بديل
-#EXTVLCOPT:
-http://89.163.140.211:8787/ARTHikayat2/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",ART سينما
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.120/hls/m3u8/ART-CINEMA.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",ART سينما 1 بديل
-#EXTVLCOPT:
-http://89.163.140.211:8787/ARTCinema/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Animal Planet
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
-
-#EXTINF:-1 group-title="Movies",Anon 2018
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=14181.mp4
-
-#EXTINF:-1 group-title="Movies",Ant-Man and the Wasp 2018
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=14179.mp4
-
-#EXTINF:-1 group-title="Arabic Channels",Aras TV
-#EXTVLCOPT:
-http://1.rtmp.org:80/tv217/yayin.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies",Avengers: Infinity War
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/08/01/Avengers.Infinity.War.2018.720p.BluRay.Shahid4U.NeT.mkv
-
-#EXTINF:-1 group-title="Arabic Channels",Axali 2 TV
-#EXTVLCOPT:
-http://188.93.94.138/axali2hq/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",B4U PLUS
-#EXTVLCOPT:
-http://95.170.215.124/live/disk1/B4u_Plus/anevia1/B4u_Plus-video=1279600-audio_AACL_ara_160000_34=160000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",B4U أفلام
-#EXTVLCOPT:
-http://95.170.215.124/live/disk1/B4u_Aflam/anevia1/B4u_Aflam-video=1279600-audio_AACL_ara_160000_34=160000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",BBC عربية
-#EXTVLCOPT:
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",BLOOMBERG HT
-#EXTVLCOPT:
-http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/chunklist_w36300847_b848000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",BURSASPOR TV
-#EXTVLCOPT:
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
-
-#EXTINF:-1 group-title="Movies",Barbie Dolphin Magic
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=12991.mp4
-
-#EXTINF:-1 group-title="Movies",Barbie Star Light Adventure
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=13002.mp4
-
-#EXTINF:-1 group-title="Movies",Billy Lynn's Long Halftime Walk 2016
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/10/06/reg/Billy.Lynns.Long.Halftime.Walk.2016.BluRay.720p.x264.Shahid4U.CoM.mp4
-
-#EXTINF:-1 group-title="Arabic Channels",Boomerang أطفال
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/Boomerang.m3u8
-
-#EXTINF:-1 group-title="Movies",Brother Bear 1
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=13011.mp4
-
-#EXTINF:-1 group-title="Movies",Buzz Lightyear
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=13003.mp4
-
-#EXTINF:-1 group-title="Arabic Channels",CBC إكسترا
-#EXTVLCOPT:yacinetv1234
-http://yacinetv1.ddns.net:8000/yacinetv553/yacinetv553/194
-
-#EXTINF:-1 group-title="Arabic Channels",CBC دراما
-#EXTVLCOPT:
-http://streaming.i-sat.tv:1935/livestream/cbc/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",CBC سفرة
-#EXTVLCOPT:
-http://streaming.i-sat.tv:1935/livestream/csofra/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",CBC مصر
-#EXTVLCOPT:
-http://streaming.i-sat.tv:1935/livestream/cbcone/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",CNBC عربية
-#EXTVLCOPT:
-https://vod.hibridcdn.net/cnbc/liveabr/cnbc/live3/chunks.m3u8
-
-#EXTINF:-1 group-title="Movies",Cars 3 
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=12987.mp4
-
-#EXTINF:-1 group-title="Movies",Coco
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=12992.mp4
-
-#EXTINF:-1 group-title="Arabic Channels",DMC دراما
-#EXTVLCOPT:
-http://livecdnh1.tvanywhere.ae/ss/dmcdrama.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",DMC لايف
-#EXTVLCOPT:
-http://streaming.i-sat.tv:8081/livestream/dmchd/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",DMM سعودية
-#EXTVLCOPT:
-rtmp://82.212.74.2/live//7214
-
-#EXTINF:-1 group-title="Arabic Channels",DUBAI RACING HD
-#EXTVLCOPT:
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",DW TV
-#EXTVLCOPT:
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8
-
-#EXTINF:-1 group-title="Movies",Death Race 4: Beyond Anarchy 2018
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=14178.mp4
-
-#EXTINF:-1 group-title="Movies",Despicable Me 3
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=12988.mp4
-
-#EXTINF:-1 group-title="Movies",Elena and the Secret of Avalor
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=13012.mp4
-
-#EXTINF:-1 group-title="Arabic Channels",FOX Action Movies
-#EXTVLCOPT:
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",FOX FAMILY MOVIS
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/FOX-FAMILY-MOV.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",FOX Movies HD
-#EXTVLCOPT:
-http://185.27.116.54:8081/livestream/fox/chunks.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",FX
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/FX-HD.m3u8
-
-#EXTINF:-1 group-title="Movies",Ferdinand
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=12990.mp4
-
-#EXTINF:-1 group-title="Arabic Channels",Fox
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.120/hls/m3u8/Fox-HD.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",GDS
-#EXTVLCOPT:
-http://94.43.239.178:8080/CHANNEL529/BITRATE0/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",GEM KURD
-#EXTVLCOPT:
-http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Huda
-#EXTVLCOPT:
-http://199.167.151.237:1935/live/sp15_10.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",ISTANBUL TV
-#EXTVLCOPT:
-http://s02.vidpanel.com/istanbultimes/istanbultimes.m3u8
-
-#EXTINF:-1 group-title="Movies",Jurassic World: Fallen Kingdom 2018
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/09/08/jurassic.world.fallen.kingdom.2018.360p.bluray.Shahid4U.ME.mkv
-
-#EXTINF:-1 group-title="Arabic Channels",KANAL TEK
-#EXTVLCOPT:
-http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",KNN TV
-#EXTVLCOPT:
-http://95.170.215.124/live/disk1/KNN-TV/anevia1/KNN-TV.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",KON TV
-#EXTVLCOPT:
-http://yayin3.canlitv.com:1935/live/kontv/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",KSA سبورت 1
-#EXTVLCOPT:
-http://www.elahmad.com/tv/vlc/player_glarab.php?id=19
-
-#EXTINF:-1 group-title="Arabic Channels",KSA سبورت 2
-#EXTVLCOPT:
-http://alwhdat.net/stream/players/hlsplayer.php?streamer=ch_ksa2
-
-#EXTINF:-1 group-title="Arabic Channels",KURDISTAN 24 TV
-#EXTVLCOPT:
-http://live.bestazindi.com:1935/kurdistan24tv/smil:kurdistan24.smil/playlist.m3u8?bestaendtime=1514933897&bestastarttime=1514923097&bestaCustomParam1=CustomValue&bestahash=-zlYD79ATR3cNrU3rDTXhvUPRCT-xE5dHp_gbjxTUDs
-
-#EXTINF:-1 group-title="Arabic Channels",KURDISTAN TV
-#EXTVLCOPT:
-http://63.237.48.3/ios/KURDISTAN_TV/KURDISTAN_TV.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",KURDMAX
-#EXTVLCOPT:
-http://95.170.215.124/live/disk1/KURDMAX-B/anevia1/KURDMAX-B-video=2820800-audio_AACL_kur_160000_35=160000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Kavkasia
-#EXTVLCOPT:
-http://188.93.94.138/caucasia/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Kurdmax Show TV
-#EXTVLCOPT:
-http://95.170.215.124/live/disk1/Kurdmax_Show_TV/anevia1/Kurdmax_Show_TV.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Kurdsat
-#EXTVLCOPT:
-http://95.170.215.124/live/disk1/Kurdsat/anevia1/Kurdsat.m3u8
 
 #EXTINF:-1 group-title="Arabic Channels",LBC SAT
 #EXTVLCOPT:
@@ -283,513 +199,133 @@ http://livecdnh2.tvanywhere.ae/ss/lbc_int.isml/Manifest
 #EXTVLCOPT:
 http://livecdnh2.tvanywhere.ae/ss/ldc.isml/Manifest
 
-#EXTINF:-1 group-title="Movies",Looking Glass (2018)
+#EXTINF:-1 group-title="Arabic Channels",الجديد
 #EXTVLCOPT:
-http://178.132.5.56/APX/EnglishMovies/Looking.Glass.mkv
-
-#EXTINF:-1 group-title="Arabic Channels",MBC 1
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/MBC-1-HD.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",MBC 1 بديل
-#EXTVLCOPT:
-http://livecdnh2.tvanywhere.ae/ss/mbc1.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",MBC 2
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/MBC-2-HD.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",MBC 2 بديل
-#EXTVLCOPT:
-http://livecdnh3.tvanywhere.ae/ss/mbc2.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",MBC 3
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/MBC-3-HD.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",MBC 3 بديل
-#EXTVLCOPT:
-http://livecdnh2.tvanywhere.ae/ss/mbc3.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",MBC 4
-#EXTVLCOPT:REDLINECLIENTANDROIDOTT1.0.01
-http://livecdnh3.tvanywhere.ae/ss/mbc4.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",MBC 4 بديل
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/MBC-4-HD.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",MBC Action
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/MBC-ACTION-HD.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",MBC Action بديل
-#EXTVLCOPT:
-http://livecdnh3.tvanywhere.ae/ss/mbcaction.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",MBC Bollywood
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/MBC-Bollywood-HD.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",MBC Bollywood بديل
-#EXTVLCOPT:
-http://livecdnh2.tvanywhere.ae/ss/mbc_bolly.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",MBC Drama
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/MBC-DRAMA-HD.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",MBC Drama Plus
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/MBC-DRAMA-Plus.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",MBC Drama بديل
-#EXTVLCOPT:
-http://livecdnh2.tvanywhere.ae/ss/mbc_drama.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",MBC Masr
-#EXTVLCOPT:
-http://livecdnh2.tvanywhere.ae/ss/mbc_msr.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",MBC Masr 2
-#EXTVLCOPT:Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/MBC-Masir-2.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",MBC Masr 2 بديل
-#EXTVLCOPT:Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/MBC-Masir-2.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",MBC Masr بديل
-#EXTVLCOPT:
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/124.ts
-
-#EXTINF:-1 group-title="Arabic Channels",MBC Max
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/MBC-MAX-HD.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",MBC Max بديل
-#EXTVLCOPT:
-http://livecdnh3.tvanywhere.ae/ss/mbcmax.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",MBC VARIETY HD
-#EXTVLCOPT:Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/MBC-P-RAVIETY.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",MED NUCE
-#EXTVLCOPT:
-http://198.100.158.231:1935/kanal11/_definst_/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",MEDYA TV
-#EXTVLCOPT:
-http://live.bestazindi.com:1935/medyatv/smil:medya.smil/playlist.m3u8?bestaendtime=1514934008&bestastarttime=1514923208&bestaCustomParam1=CustomValue&bestahash=sQduL9a55p5KaG8aktjjtwZKQXLilE_4t1mOz4XloQg=
-
-#EXTINF:-1 group-title="Arabic Channels",MERCAN TV
-#EXTVLCOPT:
-http://yayin3.canlitv.com:1935/live/mercantv/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",MPL TV
-#EXTVLCOPT:
-http://195.142.2.178:1935/mpltv/mpltv/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",MTA3 القناة الأحمدية
-#EXTVLCOPT:
-http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_1700_av-p.m3u8
+http://livecdnh3.tvanywhere.ae/ss/jadeed.isml/Manifest
 
 #EXTINF:-1 group-title="Arabic Channels",MTV Lebanon
 #EXTVLCOPT:
 https://svs.itworkscdn.net/mtvlebanonlive/mtvlive.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",Maestro
+#EXTINF:-1 group-title="Arabic Channels",المستقبل
 #EXTVLCOPT:
-http://188.93.94.138/maestro/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Marao
-#EXTVLCOPT:
-http://188.93.94.138/marao/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Meore
-#EXTVLCOPT:
-http://188.93.94.138/meore/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",NBN Lebanon
-#EXTVLCOPT:
-http://livecdnh1.tvanywhere.ae/ss/nbn.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",NET TV KURD HD
-#EXTVLCOPT:
-http://95.170.215.124/live/disk1/NET-TV-KURD-HD/anevia1/NET-TV-KURD-HD.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Nat Geo
-#EXTVLCOPT:
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/02.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Nat Geo People
-#EXTVLCOPT:
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Nat Geo Wild
-#EXTVLCOPT:
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Nur TV
-#EXTVLCOPT:
-http://195.142.2.178:1935/nurtv/nurtv/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies",O Escaravelho do Diabo
-#EXTVLCOPT:
-http://178.132.5.56/APX/EnglishMovies/O.Escaravelho.do.Diabo.mkv
-
-#EXTINF:-1 group-title="Arabic Channels",ON سبورت
-#EXTVLCOPT:
-http://streaming.i-sat.tv:1935/livestream/sno/chunklist_w1634629321.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",OSN FILM BOX
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/MY-FILM-BOX-HD.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",OSN WWE
-#EXTVLCOPT:
-http://freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/36.ts
-
-#EXTINF:-1 group-title="Arabic Channels",OSN الوثائقية
-#EXTVLCOPT:
-http://streaming.i-sat.tv:8081/livestream/discovery2/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",OSN موفيز
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/OSN-MOVIES-HD.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",OSN موفيز Thrillr
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/OSN-Movies-Thril.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",OSN موفيز أطفال
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/OSN-Movies-Kids.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",OSN موفيز اكشن
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/OSN-MOVIES-AC.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",OSN موفيز الاولى
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/OSN-Movies-First.m3u8
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Arabic Channels",OTV Lebanon
 #EXTVLCOPT:
 http://livecdnh2.tvanywhere.ae/ss/otv_leb.isml/Manifest
 
-#EXTINF:-1 group-title="Arabic Channels",Osn ياهلا
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/OSN-YH-HD.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Osn ياهلا الأولى
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/OSN-YH-ALOLA.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Osn ياهلا سينما
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/OSN-Yahala-Cinem.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Peace سلام
+#EXTINF:-1 group-title="Arabic Channels",NBN Lebanon
 #EXTVLCOPT:
-http://199.167.151.237:1935/live/sp15_2.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Pirveli TV
-#EXTVLCOPT:
-http://tbs01-edge05.itdc.ge/pirvelitv/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",RTD جيبوتي
-#EXTVLCOPT:
-http://www.elahmad.com/tv/videojs/?id=rtd&t=m
-
-#EXTINF:-1 group-title="Arabic Channels",RUDAW
-#EXTVLCOPT:
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies",Rampage
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/06/20/Shahid4U.TV.Rampage.2018.720p.WEB-DL.mkv
-
-#EXTINF:-1 group-title="Arabic Channels",Rojava TV
-#EXTVLCOPT:
-http://95.170.215.124/live/disk1/Rojava-TV/anevia1/Rojava-TV-video=1279600-audio_AACL_ara_160000_34=160000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Rustavi 2
-#EXTVLCOPT:
-http://tbs01-edge05.itdc.ge/rustavi2hqnew/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",SBC
-#EXTVLCOPT:
-https://cllive.itworkscdn.net/sbclive/token=nva=1547560493~dirs=1~hash=081222699fa5a80277e6c/sbc.smil/chunklist_b2000000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",SEMERKAND
-#EXTVLCOPT:
-http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/Playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",SPEDA TV
-#EXTVLCOPT:
-http://sepidehlive.nanocdn.com:1935/live/sepideh256/chunklist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",SPORTS TV
-#EXTVLCOPT:
-http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w708638919_b800000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Sat 7
-#EXTVLCOPT:
-http://unirtmp.tulix.tv:1935/sat7arabic/satarabiclive-web.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Sat 7 Kids
-#EXTVLCOPT:
-http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies",Siberia 2018
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/09/09/Shahid4U.ME.siberia.2018.bdrip.mkv
-
-#EXTINF:-1 group-title="Arabic Channels",Silk Sport
-#EXTVLCOPT:
-http://tbs01-edge09.itdc.ge/silk_sport4/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies",Sing 2016
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=13013.mp4
-
-#EXTINF:-1 group-title="Movies",Skyscraper 2018
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/09/06/Skyscraper.2018.720p.WEB-DL.Shahid4U.ME.mkv
-
-#EXTINF:-1 group-title="Movies",Solo: A Star Wars Story 2018
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=12896.mp4
-
-#EXTINF:-1 group-title="Arabic Channels",Star Movies
-#EXTVLCOPT:
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Star World
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/Star-World-HD.m3u8
-
-#EXTINF:-1 group-title="Movies",Summer of 84 2018
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=14182.mp4
-
-#EXTINF:-1 group-title="Movies",Super Monsters Save Halloween 2018 الوحوش اللطفاء
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=14183.mp4
-
-#EXTINF:-1 group-title="Arabic Channels",TGRT HABER
-#EXTVLCOPT:
-http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/chunklist_w2114372345.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",TRT 1 HD
-#EXTVLCOPT:
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-p.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",TRT AVAZ
-#EXTVLCOPT:
-https://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_1200_av-p.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",TRT BELGESEL
-#EXTVLCOPT:
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",TRT HABER HD
-#EXTVLCOPT:
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",TRT Kurdi
-#EXTVLCOPT:
-http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",TRT MUZIK
-#EXTVLCOPT:
-https://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1200_av-p.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",TRT OKUL
-#EXTVLCOPT:
-https://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",TRT SPOR
-#EXTVLCOPT:
-https://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-p.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",TRT TURK
-#EXTVLCOPT:
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1000_av-b.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",TRT WORLD
-#EXTVLCOPT:
-https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720p_av-p.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",TRT ÇOCUK
-#EXTVLCOPT:
-https://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",TRT العربية
-#EXTVLCOPT:
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",TV 1 Georgia
-#EXTVLCOPT:
-http://tbs01-edge06.itdc.ge/gpb/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",TV 2 Georgia
-#EXTVLCOPT:
-http://tbs01-edge05.itdc.ge/meore/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",TV 41
-#EXTVLCOPT:
-http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",TV EM
-#EXTVLCOPT:
-http://ams.tvizlehd.com/live/tvem/chunks.m3u8
-
-#EXTINF:-1 group-title="Movies",The Commuter (2018) 
-#EXTVLCOPT:
-http://178.132.5.56/APX/EnglishMovies/The-Commuter.mkv
-
-#EXTINF:-1 group-title="Movies",The Fate of the Furious (2017)
-#EXTVLCOPT:
-http://178.132.5.56/APX/EnglishMovies/The-Fate-of-the-Furious2017.mkv
-
-#EXTINF:-1 group-title="Movies",The First Purge 2018
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=12895.mp4
-
-#EXTINF:-1 group-title="Movies",The Meg 2018
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/09/17/Shahid4U.ME.the.Meg..2018.360p.HC.HDRip.mkv
-
-#EXTINF:-1 group-title="Movies",The Pirates Band Of Misfits
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=13015.mp4
-
-#EXTINF:-1 group-title="Movies",Tomb Raider
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/06/02/Tomb.Raider.2018.720p.BluRay.akoam.net.mkv
-
-#EXTINF:-1 group-title="Movies",Trolls
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=13001.mp4
-
-#EXTINF:-1 group-title="Movies",Tuntematon sotilas (2017)
-#EXTVLCOPT:
-http://178.132.5.56/APX/EnglishMovies/Tuntematon.sotilas.mkv
-
-#EXTINF:-1 group-title="Arabic Channels",Télé Maroc المغرب
-#EXTVLCOPT:
-https://livestream.com/accounts/27130247/events/8196478/player
-
-#EXTINF:-1 group-title="Movies",Unfriended: Dark Web 2018
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=14180.mp4
-
-#EXTINF:-1 group-title="Arabic Channels",Universal Somali TV
-#EXTVLCOPT:
-https://5928f90056f31.streamlock.net/universal-live/universal/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",Waar TV
-#EXTVLCOPT:
-http://95.170.215.124/live/disk1/Waar_TV/anevia1/Waar_TV.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",YAS TV الامارات
-#EXTVLCOPT:
-http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",ZEE ALWAN
-#EXTVLCOPT:
-http://95.170.215.124/live/disk1/ZEE-ALWAN/anevia1/ZEE-ALWAN.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",ZEE Aflam
-#EXTVLCOPT:REDLINECLIENTANDROIDOTT1.0.01
-http://95.170.215.124/live/disk1/Zee_Aflam/anevia1/Zee_Aflam.m3u8
-
-#EXTINF:-1 group-title="Movies",next gen
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=12989.mp4
-
-#EXTINF:-1 group-title="Arabic Channels",آسف على الازعاج 2008
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/09/18/reg/ZXD002.Assef.Ala.Al.Izaag.2008.BluRay.720p.x264.MP4
-
-#EXTINF:-1 group-title="Movies",أبو شنب 2016
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2017/08/21/Abu.Shanab.2016.HD1080.akoam.com.mkv
-
-#EXTINF:-1 group-title="Arabic Channels",أبو ظبي الأولى
-#EXTVLCOPT:
-http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",أبو ظبي الإمارات
-#EXTVLCOPT:
-http://adtv.ercdn.net/adalemarat/adalemarat_480p.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",أبو ظبي الرياضية 2
-#EXTVLCOPT:
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",أبو ظبي دراما
-#EXTVLCOPT:
-http://adtv.ercdn.net/addrama/addrama.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",أجيال فلسطين
-#EXTVLCOPT:
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Movies",أخلاق العبيد 2017
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2017/10/30/The.Morals.Of.Slaves.2017.HDRip.akoam.Com.mkv
-
-#EXTINF:-1 group-title="Arabic Channels",أرابيكا
-#EXTVLCOPT:REDLINECLIENTANDROIDOTT1.0.01
-http://163.172.87.153:8080/y0rmeSPVO2/v6Isn56uEl/4551
-
-#EXTINF:-1 group-title="Arabic Channels",أضواء الأردن
-#EXTVLCOPT:
-http://streaming.i-sat.tv:1935/livestream/light/playlist.m3u8
+http://livecdnh1.tvanywhere.ae/ss/nbn.isml/Manifest
 
 #EXTINF:-1 group-title="Arabic Channels",أغاني لايف
 #EXTVLCOPT:
 https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",ألفا سينما
-#EXTVLCOPT:
-http://streaming.i-sat.tv:8081/livestream/osnm/playlist.m3u8
+#EXTINF:-1 group-title="Arabic Channels",أرابيكا
+#EXTVLCOPT:REDLINECLIENTANDROIDOTT1.0.01
+http://163.172.87.153:8080/y0rmeSPVO2/v6Isn56uEl/4551
 
-#EXTINF:-1 group-title="Movies",أمان يا صاحبي 2017
+#EXTINF:-1 group-title="Arabic Channels",المنار
 #EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/11/25/Aman.Ya.Sohby.2017.1080p.HD.MovizLand.Online.mp4
+http://live2.mediaforall.net:1935/liveorigin/livestream_360p/playlist.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",أهل القرآن
+#EXTINF:-1 group-title="Arabic Channels",تلفزيون لبنان
 #EXTVLCOPT:
-rtmp://live.ezwp.tv/livestream//0664f22e-aa91-443a-bee9-4b9028ebfd93
+http://cdn2.catiacast.video/abr/5bb66090744e4e0b3bb545dcdfa65645.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",إفريقيا الأولى
+#EXTINF:-1 group-title="Arabic Channels",أبو ظبي الأولى
 #EXTVLCOPT:
-http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",إفريقيا الثانية 
+#EXTINF:-1 group-title="Arabic Channels",أبو ظبي دراما
 #EXTVLCOPT:
-http://africatv.live.net.sa:1935/live/africatv2/gmswf.m3u8
+http://adtv.ercdn.net/addrama/addrama.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",إقرأ
+#EXTINF:-1 group-title="Arabic Channels",أبو ظبي الإمارات
 #EXTVLCOPT:
-http://199.167.151.237:1935/live/sp15_25.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",إنجازات السعودية
-#EXTVLCOPT:
-http://streamer12.elementssys.com:8080/SAUDI-Channels/SAUDI_ENJAZAT/playlist.m3u8
+http://adtv.ercdn.net/adalemarat/adalemarat_480p.m3u8
 
 #EXTINF:-1 group-title="Arabic Channels",ابو ظبي الرياضية 1
 #EXTVLCOPT:
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",اثراء الكويت
+#EXTINF:-1 group-title="Arabic Channels",أبو ظبي الرياضية 2
 #EXTVLCOPT:
-http://svs.itworkscdn.net/ktvethraalive/smil:kethraa.smil/chunklist_b2400000.m3u8
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",ناشيونال جيوغرافيك أبو ظبي
+#EXTVLCOPT:
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=natgeotv
+
+#EXTINF:-1 group-title="Arabic Channels",دبي الاولى
+#EXTVLCOPT:
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",سما دبي
+#EXTVLCOPT:
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",دبي زمان
+#EXTVLCOPT:
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",دبي ون
+#EXTVLCOPT:
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",DUBAI RACING HD
+#EXTVLCOPT:
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",دبي الرياضية 1
+#EXTVLCOPT:
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",دبي الرياضية 2
+#EXTVLCOPT:
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",دبي الرياضية 3
+#EXTVLCOPT:
+http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_w812227654_b2000000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",دبي الرياضية 4
+#EXTVLCOPT:
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",نور دبي
+#EXTVLCOPT:
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الكويت الاولى
+#EXTVLCOPT:
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/gmswf.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الكويت الثانية
+#EXTVLCOPT:
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/gmswf.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الكويت العربي
+#EXTVLCOPT:
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/gmswf.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الكويت الرياضية بلاس
+#EXTVLCOPT:
+https://svs.itworkscdn.net/ktvsportspluslive/ksportsplus.smil/gmswf.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الراي
+#EXTVLCOPT:
+http://stream02.fasttelco.net:1935/live/_definst_/alrai.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",السعودية الأولى
+#EXTVLCOPT:
+http://199.167.151.237:1935/live/nsahs19_30.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",السعودية الثانية
+#EXTVLCOPT:
+http://www.teledunet.tv:8888/ksa_2.m3u8?channel=ksa_2&idu=ros_86570442900
 
 #EXTINF:-1 group-title="Arabic Channels",الأخبارية السعودية
 #EXTVLCOPT:
@@ -799,233 +335,9 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/3.m3u8
 #EXTVLCOPT:
 http://www.elahmad.com/tv/vlc/player_glarab.php?id=alekhbariya
 
-#EXTINF:-1 group-title="Arabic Channels",الأخبارية السورية
-#EXTVLCOPT:
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
-
-#EXTINF:-1 group-title="Arabic Channels",الأردن الرياضية
-#EXTVLCOPT:
-http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الأردن اليوم
-#EXTVLCOPT:
-http://streaming.i-sat.tv:1935/livestream/ALordonAlyoom/chunklist_w1804984779.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الأن الامارات
-#EXTVLCOPT:
-http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/gmswf.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الأهلي مصر ويب
-#EXTVLCOPT:
-http://www.elahmad.com/tv/vlc/player_glarab.php?id=alahlytv
-
-#EXTINF:-1 group-title="Arabic Channels",الإتجاه العراقية
-#EXTVLCOPT:
-http://212.18.231.213:1935/aletejahtv/aletejahtv/gmswf.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الإرث النبوي
-#EXTVLCOPT:
-rtmp://82.212.74.2/live//7207
-
-#EXTINF:-1 group-title="Arabic Channels",الاستقامة عمان
-#EXTVLCOPT:
-http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",البحرين
-#EXTVLCOPT:
-http://185.105.4.106:1935/live/Bahrain%20TV/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",البحرين الرياضية
-#EXTVLCOPT:
-http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",البحرين القران الكريم
-#EXTVLCOPT:
-http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
-
-#EXTINF:-1 group-title="Movies",البلد دي فيهاة حكومة 2008
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=26595.mkv
-
-#EXTINF:-1 group-title="Arabic Channels",البنا تي في الجزائرية
-#EXTVLCOPT:
-http://82.212.74.99:8000/live/hls/8171.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",التاسعة التونسية
-#EXTVLCOPT:
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/56.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",التربوية السورية
-#EXTVLCOPT:
-http://82.137.248.16:1935/SEdu/stream20112018/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",التغيير العراقية
-#EXTVLCOPT:
-http://stream.joinvisions.net:1935/taglive/taghier/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",التغيير العراقية ويب
-#EXTVLCOPT:
-https://livestream.com/accounts/17678123/events/8170529/player?width=960&height=540&enableInfoAndActivity=true&defaultDrawer=feed&autoPlay=true&mute=false
-
-#EXTINF:-1 group-title="Arabic Channels",التلفزيون الأردني
-#EXTVLCOPT:
-http://livecdnh2.tvanywhere.ae/ss/jordan.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",التناصح ليبيا
-#EXTVLCOPT:
-http://m.live.net.sa:1935/m/tanasuhtv/chunklist_w0.m3u8
-
 #EXTINF:-1 group-title="Arabic Channels",الثقافية السعودية
 #EXTVLCOPT:REDLINECLIENTANDROIDOTT1.0.01
 http://163.172.87.153:8080/y0rmeSPVO2/v6Isn56uEl/4139
-
-#EXTINF:-1 group-title="Arabic Channels",الجديد
-#EXTVLCOPT:
-http://livecdnh3.tvanywhere.ae/ss/jadeed.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",الجزائرية الثالثة
-#EXTVLCOPT:
-http://configuration.tn:8000/live/SFCdtoZXOb/tvZVatJk0L/1685.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الجزائرية الثالثة ويب
-#EXTVLCOPT:
-http://www.elahmad.com/tv/vlc/player_glarab.php?id=thalitha
-
-#EXTINF:-1 group-title="Arabic Channels",الجزائرية الخامسة القرأن الكريم
-#EXTVLCOPT:
-http://configuration.tn:8000/live/SFCdtoZXOb/tvZVatJk0L/1644.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الجزائرية الخامسة القرأن الكريم ويب
-#EXTVLCOPT:
-https://playtv.fr/player/embed/coran-tv-5/
-
-#EXTINF:-1 group-title="Arabic Channels",الجزائرية الرابعة
-#EXTVLCOPT:yacinetv1234
-http://configuration.tn:8000/live/SFCdtoZXOb/tvZVatJk0L/1682.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الجزائرية الرابعة ويب
-#EXTVLCOPT:
-https://playtv.fr/player/embed/tamazight-tv-4/
-
-#EXTINF:-1 group-title="Arabic Channels",الجزيرة HD
-#EXTVLCOPT:
-http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الجزيرة SD
-#EXTVLCOPT:
-http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الجزيرة الوثائقية
-#EXTVLCOPT:
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الجزيرة مباشر
-#EXTVLCOPT:
-http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/160.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الحدث العراقية
-#EXTVLCOPT:
-http://streamer12.elementssys.com:8080/demo/Hadath/index.m3u8
-
-#EXTINF:-1 group-title="Movies",الحرب العالمية الثالثة 2014
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/12/20/reg/World.War.III.HD.1080p.Shahid4U.TV.mkv
-
-#EXTINF:-1 group-title="Arabic Channels",الحرة العراق
-#EXTVLCOPT:
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الحرة عراق
-#EXTVLCOPT:
-http://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_528.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الحوار
-#EXTVLCOPT:
-http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b1264000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الحوار التونسي
-#EXTVLCOPT:
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/91.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الحياة الأولى
-#EXTVLCOPT:
-http://livecdnh2.tvanywhere.ae/ss/hayat.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",الحياة الثانية
-#EXTVLCOPT:
-http://configuration.tn:8000/live/SFCdtoZXOb/tvZVatJk0L/157.m3u8
-
-#EXTINF:-1 group-title="Movies",الحياة السرية للحيوانات
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=13014.mp4
-
-#EXTINF:-1 group-title="Arabic Channels",الحياة المسيحية مصر
-#EXTVLCOPT:
-http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الحياة مسلسلات
-#EXTVLCOPT:
-http://configuration.tn:8000/live/SFCdtoZXOb/tvZVatJk0L/515.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الدوري والكأس 1
-#EXTVLCOPT:
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-
-#EXTINF:-1 group-title="Arabic Channels",الدوري والكأس 2
-#EXTVLCOPT:
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-
-#EXTINF:-1 group-title="Arabic Channels",الدوري والكأس 3
-#EXTVLCOPT:
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-
-#EXTINF:-1 group-title="Arabic Channels",الدوري والكأس 4
-#EXTVLCOPT:
-http://alkasslive.streaming.mediaservices.windows.net/ec6a7a12-f666-4543-8537-0e39719f0565/e8450791-d467-4a88-bbd8-7080c72e9daa.ism/manifest(format=m3u8-aapl-v3)
-
-#EXTINF:-1 group-title="Arabic Channels",الدوري والكأس 5
-#EXTVLCOPT:
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-
-#EXTINF:-1 group-title="Arabic Channels",الديار العراقية
-#EXTVLCOPT:
-rtmp://82.212.74.99/live//8066
-
-#EXTINF:-1 group-title="Arabic Channels",الرافدين
-#EXTVLCOPT:
-http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الراي
-#EXTVLCOPT:
-http://stream02.fasttelco.net:1935/live/_definst_/alrai.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الرحمة
-#EXTVLCOPT:
-http://199.167.151.237:1935/live/sp15_11.stream/gmswf.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الرسالة
-#EXTVLCOPT:
-http://199.167.151.237:1935/live/sp15_28.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الرشيد العراق
-#EXTVLCOPT:
-http://streamer11.elementssys.com:8080/alrashid/alrashid_650kbps/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الزيتونة تونس
-#EXTVLCOPT:
-http://s1.xtra-sat.net:8000/live/Med_Med/58119734/13.m3u8?v=1409130514
-
-#EXTINF:-1 group-title="Arabic Channels",السعودية 24 العائلة
-#EXTVLCOPT:
-http://streamer12.elementssys.com:8080/SAUDI-Channels/Family/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",السعودية الأولى
-#EXTVLCOPT:
-http://199.167.151.237:1935/live/nsahs19_30.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",السعودية الثانية
-#EXTVLCOPT:
-http://www.teledunet.tv:8888/ksa_2.m3u8?channel=ksa_2&idu=ros_86570442900
 
 #EXTINF:-1 group-title="Arabic Channels",السعودية الرياضية
 #EXTVLCOPT:
@@ -1039,85 +351,25 @@ http://199.167.151.237:1935/live/nsahs19_31.stream/chunklist.m3u8
 #EXTVLCOPT:
 http://m.live.net.sa:1935/live/quran/chunklist_w150135122.m3u8
 
-#EXTINF:-1 group-title="Movies",السنافر
+#EXTINF:-1 group-title="Arabic Channels",KSA سبورت 1
 #EXTVLCOPT:
-http://up4iraq.com/do.php?down=13000.mp4
+http://www.elahmad.com/tv/vlc/player_glarab.php?id=19
 
-#EXTINF:-1 group-title="Arabic Channels",السودان
+#EXTINF:-1 group-title="Arabic Channels",KSA سبورت 2
 #EXTVLCOPT:
-http://199.167.151.237:1935/live/sp15_13.stream/gmswf.m3u8
+http://alwhdat.net/stream/players/hlsplayer.php?streamer=ch_ksa2
 
-#EXTINF:-1 group-title="Arabic Channels",السودانية دراما
+#EXTINF:-1 group-title="Arabic Channels",البحرين
 #EXTVLCOPT:
-http://217.182.137.206/sudan_drama.m3u8
+http://185.105.4.106:1935/live/Bahrain%20TV/playlist.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",السومرية
+#EXTINF:-1 group-title="Arabic Channels",إقرأ
 #EXTVLCOPT:
-https://cllive.itworkscdn.net/alsumariatvlive/token=nva=1547787339~dirs=1~hash=0a8cb3266231d206daed9/sumariamob.smil/chunklist_b764000_t64VVE=.m3u8
+http://199.167.151.237:1935/live/sp15_25.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",السومرية الأخبارية
+#EXTINF:-1 group-title="Arabic Channels",الرسالة
 #EXTVLCOPT:
-http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",السومرية ويب
-#EXTVLCOPT:
-http://www.elahmad.com/tv/embed.php?id=alsumaria
-
-#EXTINF:-1 group-title="Arabic Channels",الشارقة
-#EXTVLCOPT:
-http://svs.itworkscdn.net/smc1live/smc1.smil/chunklist_b625000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الشارقة الرياضية
-#EXTVLCOPT:
-http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الشرعية اليمن
-#EXTVLCOPT:
-http://streamer12.elementssys.com:8080/SAUDI-Channels/AL-SHAREYYAH/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الشرق المصرية
-#EXTVLCOPT:
-http://149.202.79.190:8081/elsharqtv/publish/chunks.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الشرقية العراقية
-#EXTVLCOPT:
-http://ns8.indexforce.com:1935/home/mystream/gmswf.m3u8?v=1559313763
-
-#EXTINF:-1 group-title="Arabic Channels",الشرقية من كلباء
-#EXTVLCOPT:
-http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/chunklist_b625000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الشرقية نيوز العراقية
-#EXTVLCOPT:
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1882993117.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الشروق HD
-#EXTVLCOPT:yacinetv1234
-http://tv-live.echoroukonline.com:8081/echo/EchoroukTV_SD/chunks.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الشروق نيوز جزائر
-#EXTVLCOPT:yacinetv1234
-http://tv-live.echoroukonline.com:8081/echo/EchoroukNews_SD/chunks.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الضفرة
-#EXTVLCOPT:
-http://aldafrahtv.noip.us:1935/live/myStream1/gmswf.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",العالم
-#EXTVLCOPT:
-http://live2.alalam.ir/alalam.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",العراقية أخبار
-#EXTVLCOPT:
-http://95.170.215.124/live/disk1/Al-Iraqiya_News/anevia1/Al-Iraqiya_News-video=1279600-audio_AACL_eng_160000_34=160000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",العراقية الرياضية
-#EXTVLCOPT:
-http://95.170.215.124/live/disk1/Iraqia-Sport/anevia1/Iraqia-Sport-video=1279600-audio_AACL_eng_160000_34=160000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",العربي HD
-#EXTVLCOPT:
-http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+http://199.167.151.237:1935/live/sp15_28.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Arabic Channels",العربية
 #EXTVLCOPT:
@@ -1127,517 +379,457 @@ http://livecdnh3.tvanywhere.ae/ss/alarabiya.isml/Manifest
 #EXTVLCOPT:
 http://av.alarabiya.net/alarabiapublish/alhadath.smil/gmswf.m3u8?v=1585180130
 
-#EXTINF:-1 group-title="Arabic Channels",العهد العراقية
+#EXTINF:-1 group-title="Arabic Channels",الجزيرة HD
 #EXTVLCOPT:
-rtmp://176.241.91.122/livepkgr//alahad
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",الغدير عراق
+#EXTINF:-1 group-title="Arabic Channels",الجزيرة SD
 #EXTVLCOPT:
-http://149.255.37.212:1935/live/alghadeer/chunklist_w1421637620.m3u8
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",الفتح مصر
+#EXTINF:-1 group-title="Arabic Channels",الجزيرة مباشر
 #EXTVLCOPT:
-https://svs.itworkscdn.net/alfatehlive/fatehtv/chunklist.m3u8
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/160.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",الفجر 1 فلسطين
+#EXTINF:-1 group-title="Arabic Channels",الجزيرة الوثائقية
 #EXTVLCOPT:
-http://217.21.0.215:8081/AlfajertvHD1_web/web/chunks.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الفجر 2 فلسطين
-#EXTVLCOPT:
-http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الفجيرة
-#EXTVLCOPT:
-http://ccfz.dyndns.org:8282/hls-live/fujtv/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الفرات عراق
-#EXTVLCOPT:
-http://212.18.231.213:1935/7/ngrp:7_all/chunklist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الفرسان سعودية
-#EXTVLCOPT:
-rtmp://82.212.74.2/live//7204
-
-#EXTINF:-1 group-title="Arabic Channels",الفضائية السورية
-#EXTVLCOPT:
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الفلسطينية
-#EXTVLCOPT:
-http://htvmada.mada.ps:8888/ftv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الفلوجة ويب
-#EXTVLCOPT:
-https://livestream.com/accounts/4671269/events/4213685/player?width=960&height=540&enableInfoAndActivity=true&defaultDrawer=feed&autoPlay=true&mute=false
-
-#EXTINF:-1 group-title="Arabic Channels",القاهرة والناس 1
-#EXTVLCOPT:
-http://livecdnh2.tvanywhere.ae/ss/kahera_nas.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",القاهرة والناس 2
-#EXTVLCOPT:
-http://www.elahmad.com/tv/vlc/player_glarab.php?id=alkaherawalnas2
-
-#EXTINF:-1 group-title="Arabic Channels",القدس التربوية
-#EXTVLCOPT:
-http://streaming.qou.edu:1935/live/smil:Stream.smil/chunklist_b1928000_sleng.m3u8
-
-#EXTINF:-1 group-title="Movies",القرموطي في ارض النار 2017
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2017/10/12/Al.Armouty.Fe.Ard.AlNar.HDTV.1080p.akoam.com.mkv
-
-#EXTINF:-1 group-title="Arabic Channels",القرين الكويت
-#EXTVLCOPT:
-http://svs.itworkscdn.net/ktvpluslive/smil:kplus.smil/chunklist_b2400000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",القناة 9
-#EXTVLCOPT:
-https://5a69dcfbbc91d.streamlock.net/custom/alqanat9/chunklist_w1894940078.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الكويت الاولى
-#EXTVLCOPT:
-https://svs.itworkscdn.net/ktv1live/ktv1.smil/gmswf.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الكويت الثانية
-#EXTVLCOPT:
-https://svs.itworkscdn.net/ktv2live/ktv2.smil/gmswf.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الكويت الرياضية
-#EXTVLCOPT:
-http://svs.itworkscdn.net/ktvsportslive/smil:ksports.smil/chunklist_b2400000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الكويت الرياضية بلاس
-#EXTVLCOPT:
-https://svs.itworkscdn.net/ktvsportspluslive/ksportsplus.smil/gmswf.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الكويت العربي
-#EXTVLCOPT:
-https://svs.itworkscdn.net/ktvarabelive/karabe.smil/gmswf.m3u8
-
-#EXTINF:-1 group-title="Movies",الكويسين 2018
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/12/09/The.Kowess.Family.HDTV.720P.Shahid4U.NeT.mkv
-
-#EXTINF:-1 group-title="Arabic Channels",الماهر الأردن
-#EXTVLCOPT:
-rtmp://82.212.74.98/live//7903
-
-#EXTINF:-1 group-title="Arabic Channels",المجد
-#EXTVLCOPT:REDLINECLIENTANDROIDOTT1.0.01
-http://163.172.87.153:8080/y0rmeSPVO2/v6Isn56uEl/4125
-
-#EXTINF:-1 group-title="Arabic Channels",المجد العلمية
-#EXTVLCOPT:
-http://199.167.151.237:1935/live/sp15_29.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المجد المسيحية
-#EXTVLCOPT:
-https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/chunklist_w1221986584_b1500000_t64SEQ=.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المجد حديث
-#EXTVLCOPT:
-http://199.167.151.237:1935/live/sp15_32.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المجد قرأن كريم
-#EXTVLCOPT:
-http://199.167.151.237:1935/live/nsahs19_24.stream/gmswf.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المجلس الكويت
-#EXTVLCOPT:
-https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المحور مصر
-#EXTVLCOPT:
-https://livestreaming5.onlinehorizons.net/hls-live/MehwarTVOnline/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المسار الأولى العراقية
-#EXTVLCOPT:
-http://212.18.231.213:1935/almasar/ngrp:almasar_all/chunklist_w2000820017_b2179072.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المستقبل
-#EXTVLCOPT:
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المسيرة الأخبار اليمنية
-#EXTVLCOPT:
-https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المسيرة اليمن
-#EXTVLCOPT:
-https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المشرق
-#EXTVLCOPT:
-https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المصحف المعلم للأطفال
-#EXTVLCOPT:
-http://www.elahmad.com/quran
-
-#EXTINF:-1 group-title="Arabic Channels",المصرية
-#EXTVLCOPT:
-https://www.maspero.eg/player/LivePlayer/channelPlayer.html?ChannelName=Almasrya&Poster=false
-
-#EXTINF:-1 group-title="Arabic Channels",المصرية الأولى
-#EXTVLCOPT:
-https://www.maspero.eg/player/LivePlayer/channelPlayer.html?ChannelName=Channelone&Poster=false
-
-#EXTINF:-1 group-title="Arabic Channels",المصرية الثانية
-#EXTVLCOPT:
-https://www.maspero.eg/player/LivePlayer/channelPlayer.html?ChannelName=ChannelTwo&Poster=false
-
-#EXTINF:-1 group-title="Arabic Channels",المعالي الكويت
-#EXTVLCOPT:
-http://free.flashwebtown.com:1935/bashaclick/myStream.sdp/chunklist_w1314214926.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المغاربية
-#EXTVLCOPT:
-https://cdn001.atnnetwork.tv/atnProvider/magharibia_480p/chunks.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المغاربية ويب
-#EXTVLCOPT:
-https://livestream.com/accounts/7861901/events/6247367/player
-
-#EXTINF:-1 group-title="Arabic Channels",المغربية 1 العيون
-#EXTVLCOPT:
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المغربية الأولى
-#EXTVLCOPT:
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المغربية الثالثة الرياضية
-#EXTVLCOPT:
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-video=400000-audio_AACL_qad_130400_110=130400.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المغربية الثامنة
-#EXTVLCOPT:
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المغربية الخامسة الأخبارية
-#EXTVLCOPT:
-http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المغربية الرابعة
-#EXTVLCOPT:
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-video=400000-audio_AACL_qad_130400_110=130400.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المغربية السادسة
-#EXTVLCOPT:
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-video=400000-audio_AACL_qad_130400_110=130400.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الملكوت
-#EXTVLCOPT:
-http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المملكة الأردنية
-#EXTVLCOPT:
-https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المنار
-#EXTVLCOPT:
-http://live2.mediaforall.net:1935/liveorigin/livestream_360p/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",المناصير الأردن
-#EXTVLCOPT:
-http://streaming.i-sat.tv:1935/live/manaseer/playlist.m3u8
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
 #EXTINF:-1 group-title="Arabic Channels",الميادين
 #EXTVLCOPT:
 http://live.mdn.tv/almayadeen/smil:mayadeen.smil/chunklist_b192000.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",النبأ ليبيا
+#EXTINF:-1 group-title="Arabic Channels",قطر
 #EXTVLCOPT:
-http://51.15.246.58:8081/alnabaatv/source/playlist.m3u8
+http://b-qtv-i.akamaihd.net/hls/live/213233/QTV/index30.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",النجاح فلسطين
+#EXTINF:-1 group-title="Arabic Channels",كوست عربية
 #EXTVLCOPT:
-http://htvpalsat.mada.ps:8888/najah/tracks-v1a1/mono.m3u8
+http://95.170.215.124/live/disk1/QUEST-ARABIYA/anevia1/QUEST-ARABIYA-video=1098400-audio_AACL_ara_160000_34=160000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",سكاي نيوز عربية HD
+#EXTVLCOPT:
+https://stream.skynewsarabia.com/hls/sna.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",BBC عربية
+#EXTVLCOPT:
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",ليبيا 218 أخبار
+#EXTVLCOPT:
+http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",CNBC عربية
+#EXTVLCOPT:
+https://vod.hibridcdn.net/cnbc/liveabr/cnbc/live3/chunks.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",روسيا اليوم
+#EXTVLCOPT:
+http://www.elahmad.com/tv/m3u8/rt.m3u8?id=ara1
+
+#EXTINF:-1 group-title="Arabic Channels",مصدر
+#EXTVLCOPT:
+http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الحوار
+#EXTVLCOPT:
+http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b1264000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",فرنسا 24
+#EXTVLCOPT:
+http://static.france24.com/live/F24_AR_LO_HLS/live_ios.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",عمان مباشر
+#EXTVLCOPT:
+http://38.96.148.35:1935/live/omantv03/chunklist_w2090208946.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",DW TV
+#EXTVLCOPT:
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8
 
 #EXTINF:-1 group-title="Arabic Channels",النعيم عراق
 #EXTVLCOPT:
 http://212.18.231.213:1935/alnaeemtv/smil:myStream.smil/chunklist_b200000.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",النهار تي في الجزائرية
+#EXTINF:-1 group-title="Arabic Channels",الإتجاه العراقية
 #EXTVLCOPT:
-http://tv-live.echoroukonline.com:8081/entv/EnnaharTV_SD/chunks.m3u8
+http://212.18.231.213:1935/aletejahtv/aletejahtv/gmswf.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",النهار دراما مصر
+#EXTINF:-1 group-title="Arabic Channels",التغيير العراقية
 #EXTVLCOPT:
-http://livecdnh2.tvanywhere.ae/ss/nahar_sd_drama.isml/Manifest
+http://stream.joinvisions.net:1935/taglive/taghier/playlist.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",النهار مصر
+#EXTINF:-1 group-title="Arabic Channels",ANB عراق
 #EXTVLCOPT:
-http://livecdnh2.tvanywhere.ae/ss/nahar_sd.isml/Manifest
+http://streaming.i-sat.tv:1935/live/anb.stream_360p/chunklist_w1062362058.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",النيل الأزرق السودان
+#EXTINF:-1 group-title="Arabic Channels",الرشيد العراق
 #EXTVLCOPT:
-http://livecdnh2.tvanywhere.ae/ss/blue_nile.isml/Manifest
+http://streamer11.elementssys.com:8080/alrashid/alrashid_650kbps/index.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",النيل مصر
+#EXTINF:-1 group-title="Arabic Channels",دجلة العراق
 #EXTVLCOPT:
-https://www.maspero.eg/player/LivePlayer/channelPlayer.html?ChannelName=Nilenew&Poster=false
+http://1324425059@91.134.145.75:10001/Dijlah/index.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",النيلين الرياضية السودانية
+#EXTINF:-1 group-title="Arabic Channels",الشرقية العراقية
 #EXTVLCOPT:
-http://www.elahmad.com/tv/vlc/player_glarab.php?id=98
+http://ns8.indexforce.com:1935/home/mystream/gmswf.m3u8?v=1559313763
 
-#EXTINF:-1 group-title="Arabic Channels",الهداف الجزائرية
+#EXTINF:-1 group-title="Arabic Channels",الرافدين
+#EXTVLCOPT:
+http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",السومرية
+#EXTVLCOPT:
+https://cllive.itworkscdn.net/alsumariatvlive/token=nva=1547787339~dirs=1~hash=0a8cb3266231d206daed9/sumariamob.smil/chunklist_b764000_t64VVE=.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الحرة العراق
+#EXTVLCOPT:
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",السومرية الأخبارية
+#EXTVLCOPT:
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",عشتار العراق
+#EXTVLCOPT:
+http://162.244.81.145:4436/live/ishtar/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الفرات عراق
+#EXTVLCOPT:
+http://212.18.231.213:1935/7/ngrp:7_all/chunklist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",ميوزك الحنين
+#EXTVLCOPT:
+http://streaming.i-sat.tv:1935/livestream/MusicAl-haneen/chunklist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الغدير عراق
+#EXTVLCOPT:
+http://149.255.37.212:1935/live/alghadeer/chunklist_w1421637620.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الضفرة
+#EXTVLCOPT:
+http://aldafrahtv.noip.us:1935/live/myStream1/gmswf.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الشارقة
+#EXTVLCOPT:
+http://svs.itworkscdn.net/smc1live/smc1.smil/chunklist_b625000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الأن الامارات
+#EXTVLCOPT:
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/gmswf.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Sat 7
+#EXTVLCOPT:
+http://unirtmp.tulix.tv:1935/sat7arabic/satarabiclive-web.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",رؤية
+#EXTVLCOPT:
+http://streaming.i-sat.tv:1935/livestream/Roya/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",العربي HD
+#EXTVLCOPT:
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",B4U أفلام
+#EXTVLCOPT:
+http://95.170.215.124/live/disk1/B4u_Aflam/anevia1/B4u_Aflam-video=1279600-audio_AACL_ara_160000_34=160000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",B4U PLUS
+#EXTVLCOPT:
+http://95.170.215.124/live/disk1/B4u_Plus/anevia1/B4u_Plus-video=1279600-audio_AACL_ara_160000_34=160000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",فنون
+#EXTVLCOPT:
+http://livecdnh3.tvanywhere.ae/ss/funoon.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",TRT العربية
+#EXTVLCOPT:
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",TRT 1 HD
+#EXTVLCOPT:
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-p.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",TRT BELGESEL
+#EXTVLCOPT:
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",MPL TV
+#EXTVLCOPT:
+http://195.142.2.178:1935/mpltv/mpltv/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Nur TV
+#EXTVLCOPT:
+http://195.142.2.178:1935/nurtv/nurtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Aras TV
+#EXTVLCOPT:
+http://1.rtmp.org:80/tv217/yayin.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",TV EM
+#EXTVLCOPT:
+http://ams.tvizlehd.com/live/tvem/chunks.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",MERCAN TV
+#EXTVLCOPT:
+http://yayin3.canlitv.com:1935/live/mercantv/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",TRT TURK
+#EXTVLCOPT:
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1000_av-b.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",TRT HABER HD
+#EXTVLCOPT:
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",BLOOMBERG HT
+#EXTVLCOPT:
+http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/chunklist_w36300847_b848000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",24 TV
+#EXTVLCOPT:
+http://mn-l.mncdn.com/kanal24/kanal243/radyodelisi.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",TGRT HABER
+#EXTVLCOPT:
+http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/chunklist_w2114372345.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",360 TV
+#EXTVLCOPT:
+http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/chunklist_w0.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",SPORTS TV
+#EXTVLCOPT:
+http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w708638919_b800000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",BURSASPOR TV
+#EXTVLCOPT:
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",KON TV
+#EXTVLCOPT:
+http://yayin3.canlitv.com:1935/live/kontv/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",TV 41
+#EXTVLCOPT:
+http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",ISTANBUL TV
+#EXTVLCOPT:
+http://s02.vidpanel.com/istanbultimes/istanbultimes.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",SEMERKAND
+#EXTVLCOPT:
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/Playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",KANAL TEK
+#EXTVLCOPT:
+http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",KURDISTAN TV
+#EXTVLCOPT:
+http://63.237.48.3/ios/KURDISTAN_TV/KURDISTAN_TV.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",RUDAW
+#EXTVLCOPT:
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",KURDISTAN 24 TV
+#EXTVLCOPT:
+http://live.bestazindi.com:1935/kurdistan24tv/smil:kurdistan24.smil/playlist.m3u8?bestaendtime=1514933897&bestastarttime=1514923097&bestaCustomParam1=CustomValue&bestahash=-zlYD79ATR3cNrU3rDTXhvUPRCT-xE5dHp_gbjxTUDs
+
+#EXTINF:-1 group-title="Arabic Channels",MEDYA TV
+#EXTVLCOPT:
+http://live.bestazindi.com:1935/medyatv/smil:medya.smil/playlist.m3u8?bestaendtime=1514934008&bestastarttime=1514923208&bestaCustomParam1=CustomValue&bestahash=sQduL9a55p5KaG8aktjjtwZKQXLilE_4t1mOz4XloQg=
+
+#EXTINF:-1 group-title="Arabic Channels",GEM KURD
+#EXTVLCOPT:
+http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",TRT Kurdi
+#EXTVLCOPT:
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",MED NUCE
+#EXTVLCOPT:
+http://198.100.158.231:1935/kanal11/_definst_/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",SPEDA TV
+#EXTVLCOPT:
+http://sepidehlive.nanocdn.com:1935/live/sepideh256/chunklist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",GDS
+#EXTVLCOPT:
+http://94.43.239.178:8080/CHANNEL529/BITRATE0/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",TV 1 Georgia
+#EXTVLCOPT:
+http://tbs01-edge06.itdc.ge/gpb/index.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Rustavi 2
+#EXTVLCOPT:
+http://tbs01-edge05.itdc.ge/rustavi2hqnew/index.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Pirveli TV
+#EXTVLCOPT:
+http://tbs01-edge05.itdc.ge/pirvelitv/index.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Silk Sport
+#EXTVLCOPT:
+http://tbs01-edge09.itdc.ge/silk_sport4/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",TV 2 Georgia
+#EXTVLCOPT:
+http://tbs01-edge05.itdc.ge/meore/index.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Axali 2 TV
+#EXTVLCOPT:
+http://188.93.94.138/axali2hq/index.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Maestro
+#EXTVLCOPT:
+http://188.93.94.138/maestro/index.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Kavkasia
+#EXTVLCOPT:
+http://188.93.94.138/caucasia/index.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Marao
+#EXTVLCOPT:
+http://188.93.94.138/marao/index.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Meore
+#EXTVLCOPT:
+http://188.93.94.138/meore/index.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الشروق HD
 #EXTVLCOPT:yacinetv1234
-http://yacinetv1.ddns.net:8000/yacinetv553/yacinetv553/182
+http://tv-live.echoroukonline.com:8081/echo/EchoroukTV_SD/chunks.m3u8
 
-#EXTINF:-1 group-title="Movies",الهرم الرابع 2016
+#EXTINF:-1 group-title="Arabic Channels",درر الشام
 #EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2017/08/21/The.Fourth.Pyramid.2016.HD720.akoam.com.mkv
+http://de.live.net.sa:1935/live/dorar/gmswf.m3u8
 
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 1
+#EXTINF:-1 group-title="Arabic Channels",دعوة
 #EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/1.mp4
+http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8
 
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 10
+#EXTINF:-1 group-title="Arabic Channels",مكة
 #EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/10.mp4
+http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
 
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 11
+#EXTINF:-1 group-title="Arabic Channels",وصال
 #EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/11.mp4
+http://wesal.noorlive.com/wesal/wesal1/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 12
+#EXTINF:-1 group-title="Arabic Channels",الرحمة
 #EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/12.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 13
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/13.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 14
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/14.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 15
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/15.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 16
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/16.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 17
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/17.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 18
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/18.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 19
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/19.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 2
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/2.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 20
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/20.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 21
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/21.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 22
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/22.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 23
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/23.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 24
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/24.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 25
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/25.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 26
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/26.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 27
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/27.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 28
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/28.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 29
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/29.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 3
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/3.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 30 والأخيرة
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/30.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 4
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/4.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 5
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/5.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 6
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/6.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 7
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/7.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 8
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/8.mp4
-
-#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 9
-#EXTVLCOPT:
-http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/9.mp4
-
-#EXTINF:-1 group-title="Arabic Channels",الوسطى
-#EXTVLCOPT:
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/gmswf.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الوطنية الأولى تونس
-#EXTVLCOPT:yacinetv1234
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/57.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",الوطنية الثانية تونس
-#EXTVLCOPT:yacinetv1234
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/58.m3u8
-
-#EXTINF:-1 group-title="Movies",الي بالي بالك 2003
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/09/23/reg/film%20ili%20bali%20balak.mp4
-
-#EXTINF:-1 group-title="Arabic Channels",اليمن الفضائية
-#EXTVLCOPT:
-http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",اليمن شباب
-#EXTVLCOPT:
-https://stream.starmenacdn.com:8082/hls/yemenshabab.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",ام درمان السودان
-#EXTVLCOPT:
-http://www.elahmad.com/tv/vlc/player_glarab.php?id=101
+http://199.167.151.237:1935/live/sp15_11.stream/gmswf.m3u8
 
 #EXTINF:-1 group-title="Arabic Channels",انتي الأردن
 #EXTVLCOPT:
 http://82.212.74.99:8000/live/8111.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",اور العراق
+#EXTINF:-1 group-title="Arabic Channels",قناة فن الحياة
 #EXTVLCOPT:
-http://82.212.74.99:8000/live/hls/8162.m3u8
+http://82.212.74.98:8000/live/7802.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",اوغاريت
+#EXTINF:-1 group-title="Arabic Channels",ليبيا
 #EXTVLCOPT:
-http://82.137.248.16:1935/Ugarit/stream20112018/playlist.m3u8
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",ايات
+#EXTINF:-1 group-title="Arabic Channels",ليبيا 218
 #EXTVLCOPT:
-http://m.live.net.sa:1935/live/ayat/chunklist_w2078329880.m3u8
+http://95.85.47.43/218tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Movies",بارتي في حارتي 2016
+#EXTINF:-1 group-title="Arabic Channels",النبأ ليبيا
 #EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2017/05/11/Party.In.My-.Alley.2016.HDRip.720p.akoam.com.mkv
+http://51.15.246.58:8081/alnabaatv/source/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies",بالحلال 2015
+#EXTINF:-1 group-title="Arabic Channels",ليبيا الحدث
 #EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2017/02/18/Halal.Love.2015.720p.HDRip.MR.ZAZA.mkv
+http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",بانوراما دراما
+#EXTINF:-1 group-title="Arabic Channels",التناصح ليبيا
 #EXTVLCOPT:
-http://alwhdat.net/stream/live/panoramadrama/
+http://m.live.net.sa:1935/m/tanasuhtv/chunklist_w0.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",بانوراما دراما 2 ويب
+#EXTINF:-1 group-title="Arabic Channels",ليبيا الوطن
 #EXTVLCOPT:
-http://www.elahmad.com/tv/videojs/?id=panoramadrama2&t=m
+http://185.27.116.54:1935/livestream/libyaelwatan/chunklist_w717715659.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",بانوراما فيلم
+#EXTINF:-1 group-title="Arabic Channels",قناة الأقصى
 #EXTVLCOPT:
-http://alwhdat.net/embed.php?cid=panoramafilm
+http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",بانوراما كوميدي ويب
+#EXTINF:-1 group-title="Arabic Channels",طيبة السودان
 #EXTVLCOPT:
-http://www.elahmad.com/tv/videojs/?id=panoramacomedy&t=m
+http://199.167.151.237:1935/live/sp15_17.stream/gmswf.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",بدوية دراما
+#EXTINF:-1 group-title="Arabic Channels",أجيال فلسطين
 #EXTVLCOPT:
-http://www.jawaltv.com/flsh/garabm.php?id=AlAmakenDrama&session=e97318f94efdadb9ef47896eb5feed2a6ea33909bd2ecf0abb33a04762c26834
-
-#EXTINF:-1 group-title="Arabic Channels",براعم
-#EXTVLCOPT:
-http://livecdnh2.tvanywhere.ae/ss/baraeim.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",براعم بديل
-#EXTVLCOPT:
-http://livecdnh2.tvanywhere.ae/ss/baraeim.isml/Manifest
-
-#EXTINF:-1 group-title="Movies",بغمضة عين 2017
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2017/11/12/In.One.Blink.Of.An.Eye.2017.HDRip.akoam.Com.mkv
-
-#EXTINF:-1 group-title="Arabic Channels",بلاد الحرمين
-#EXTVLCOPT:
-http://streamer12.elementssys.com:8080/SAUDI-Channels/BELAD-HARAMEN/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",بنة TV الجزائر
-#EXTVLCOPT:
-http://tv-live.echoroukonline.com:8081/echo/EchoroukBenna_SD/chunks.m3u8?v=
-
-#EXTINF:-1 group-title="Arabic Channels",بور تيفي الجزائر
-#EXTVLCOPT:yacinetv1234
-http://configuration.tn:8000/live/SFCdtoZXOb/tvZVatJk0L/1600.m3u8
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Arabic Channels",بيت لحم
 #EXTVLCOPT:
 http://htvint.mada.ps:8889//btv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",بيتي السعودية
+#EXTINF:-1 group-title="Arabic Channels",سيرفر بديل لجميع القنوات
 #EXTVLCOPT:
-rtmp://82.212.74.99/live//8064
+http://www.elahmad.com/tv/mobiletv/
 
-#EXTINF:-1 group-title="Movies",تراب الماس 2018
+#EXTINF:-1 group-title="Arabic Channels",اليمن شباب
 #EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/11/26/Trab.El.Mas.2018.720p.HD.MovizLand.Online.mp4
+https://stream.starmenacdn.com:8082/hls/yemenshabab.m3u8
 
-#EXTINF:-1 group-title="Movies",تصبح على خير 2017
+#EXTINF:-1 group-title="Arabic Channels",اليمن الفضائية
 #EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2017/12/09/Good.Night.2017.1080P.HD.akoam.com.mkv
+http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",تلفزة تونس
+#EXTINF:-1 group-title="Arabic Channels",صنعاء
 #EXTVLCOPT:
-http://configuration.tn:8000/live/SFCdtoZXOb/tvZVatJk0L/33.m3u8
+http://82.212.74.3:8000/live/7510.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",تلفزيون لبنان
+#EXTINF:-1 group-title="Arabic Channels",هلا
 #EXTVLCOPT:
-http://cdn2.catiacast.video/abr/5bb66090744e4e0b3bb545dcdfa65645.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",تلفزيون وطن مصر
-#EXTVLCOPT:
-http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
+http://wowza.panet.co.il:1935/live/smil:halaTV.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies",توم وجيري 1
 #EXTVLCOPT:
 http://193.169.52.206/a-tom-jerry/1-1.mp4
+
+#EXTINF:-1 group-title="Movies",توم وجيري 2
+#EXTVLCOPT:
+http://193.169.52.206/a-tom-jerry/1-3.mp4
+
+#EXTINF:-1 group-title="Movies",توم وجيري 3
+#EXTVLCOPT:
+http://193.169.52.206/a-tom-jerry/1-2.mp4
+
+#EXTINF:-1 group-title="Movies",توم وجيري 4
+#EXTVLCOPT:
+http://193.169.52.206/a-tom-jerry/1-4.mp4
+
+#EXTINF:-1 group-title="Movies",توم وجيري 5
+#EXTVLCOPT:
+http://193.169.52.206/a-tom-jerry/1-5.mp4
+
+#EXTINF:-1 group-title="Movies",توم وجيري 6
+#EXTVLCOPT:
+http://193.169.52.206/a-tom-jerry/1-6.mp4
+
+#EXTINF:-1 group-title="Movies",توم وجيري 7
+#EXTVLCOPT:
+http://193.169.52.206/a-tom-jerry/1-7.mp4
+
+#EXTINF:-1 group-title="Movies",توم وجيري 8
+#EXTVLCOPT:
+http://193.169.52.206/a-tom-jerry/1-8.mp4
+
+#EXTINF:-1 group-title="Movies",توم وجيري 9
+#EXTVLCOPT:
+http://193.169.52.206/a-tom-jerry/1-9.mp4
 
 #EXTINF:-1 group-title="Movies",توم وجيري 10
 #EXTVLCOPT:
@@ -1679,385 +871,249 @@ http://193.169.52.206/a-tom-jerry/1-18.mp4
 #EXTVLCOPT:
 http://193.169.52.206/a-tom-jerry/1-19.mp4
 
-#EXTINF:-1 group-title="Movies",توم وجيري 2
-#EXTVLCOPT:
-http://193.169.52.206/a-tom-jerry/1-3.mp4
-
 #EXTINF:-1 group-title="Movies",توم وجيري 20
 #EXTVLCOPT:
 http://193.169.52.206/a-tom-jerry/1-20.mp4
 
-#EXTINF:-1 group-title="Movies",توم وجيري 3
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 1
 #EXTVLCOPT:
-http://193.169.52.206/a-tom-jerry/1-2.mp4
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/1.mp4
 
-#EXTINF:-1 group-title="Movies",توم وجيري 4
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 2
 #EXTVLCOPT:
-http://193.169.52.206/a-tom-jerry/1-4.mp4
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/2.mp4
 
-#EXTINF:-1 group-title="Movies",توم وجيري 5
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 3
 #EXTVLCOPT:
-http://193.169.52.206/a-tom-jerry/1-5.mp4
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/3.mp4
 
-#EXTINF:-1 group-title="Movies",توم وجيري 6
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 4
 #EXTVLCOPT:
-http://193.169.52.206/a-tom-jerry/1-6.mp4
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/4.mp4
 
-#EXTINF:-1 group-title="Movies",توم وجيري 7
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 5
 #EXTVLCOPT:
-http://193.169.52.206/a-tom-jerry/1-7.mp4
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/5.mp4
 
-#EXTINF:-1 group-title="Movies",توم وجيري 8
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 6
 #EXTVLCOPT:
-http://193.169.52.206/a-tom-jerry/1-8.mp4
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/6.mp4
 
-#EXTINF:-1 group-title="Movies",توم وجيري 9
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 7
 #EXTVLCOPT:
-http://193.169.52.206/a-tom-jerry/1-9.mp4
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/7.mp4
 
-#EXTINF:-1 group-title="Movies",تيتة رهيبة 2012
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 8
 #EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/09/20/reg/Teta.Raheba.2012.1080p.HD.Cima4U.mp4
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/8.mp4
 
-#EXTINF:-1 group-title="Movies",جحيم في الهند 2016
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 9
 #EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2017/08/21/Inferno.In.India.2016.HD1080.akoam.com.mkv
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/9.mp4
 
-#EXTINF:-1 group-title="Arabic Channels",جدول المباريات
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 10
 #EXTVLCOPT:
-https://www.hdkoora.com/2018/10/kora-extra.html?m=0
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/10.mp4
 
-#EXTINF:-1 group-title="Movies",جواب اعتقال 2017
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 11
 #EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2017/10/03/Gawab.Eteqal.HDTV.1080p.akoam.com.mkv
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/11.mp4
 
-#EXTINF:-1 group-title="Arabic Channels",جوسات الأردن
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 12
 #EXTVLCOPT:
-rtmp://82.212.74.98/live//7914
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/12.mp4
 
-#EXTINF:-1 group-title="Arabic Channels",جولي بيل بالعربي
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/Gulli-Bil-Arabie.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",جيم
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 13
 #EXTVLCOPT:
-http://livecdnh2.tvanywhere.ae/ss/jeem.isml/Manifest
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/13.mp4
 
-#EXTINF:-1 group-title="Arabic Channels",جيم بديل
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 14
 #EXTVLCOPT:
-http://livecdnh2.tvanywhere.ae/ss/jeem.isml/Manifest
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/14.mp4
 
-#EXTINF:-1 group-title="Arabic Channels",حلب اليوم
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 15
 #EXTVLCOPT:
-http://streaming.tootvs.com:1935/8010/8010/chunklist_w1767033437.m3u8
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/15.mp4
+
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 16
+#EXTVLCOPT:
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/16.mp4
+
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 17
+#EXTVLCOPT:
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/17.mp4
+
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 18
+#EXTVLCOPT:
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/18.mp4
+
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 19
+#EXTVLCOPT:
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/19.mp4
+
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 20
+#EXTVLCOPT:
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/20.mp4
+
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 21
+#EXTVLCOPT:
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/21.mp4
+
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 22
+#EXTVLCOPT:
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/22.mp4
+
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 23
+#EXTVLCOPT:
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/23.mp4
+
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 24
+#EXTVLCOPT:
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/24.mp4
+
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 25
+#EXTVLCOPT:
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/25.mp4
+
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 26
+#EXTVLCOPT:
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/26.mp4
+
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 27
+#EXTVLCOPT:
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/27.mp4
+
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 28
+#EXTVLCOPT:
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/28.mp4
+
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 29
+#EXTVLCOPT:
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/29.mp4
+
+#EXTINF:-1 group-title="Movies",الهيبة العودة - الحلقة 30 والأخيرة
+#EXTVLCOPT:
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/hebah2/30.mp4
+
+#EXTINF:-1 group-title="Arabic Channels",CBC دراما
+#EXTVLCOPT:
+http://streaming.i-sat.tv:1935/livestream/cbc/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",CBC مصر
+#EXTVLCOPT:
+http://streaming.i-sat.tv:1935/livestream/cbcone/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",CBC سفرة
+#EXTVLCOPT:
+http://streaming.i-sat.tv:1935/livestream/csofra/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",CBC إكسترا
+#EXTVLCOPT:yacinetv1234
+http://yacinetv1.ddns.net:8000/yacinetv553/yacinetv553/194
+
+#EXTINF:-1 group-title="Arabic Channels",DMC دراما
+#EXTVLCOPT:
+http://livecdnh1.tvanywhere.ae/ss/dmcdrama.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",DMC لايف
+#EXTVLCOPT:
+http://streaming.i-sat.tv:8081/livestream/dmchd/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الدوري والكأس 1
+#EXTVLCOPT:
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+
+#EXTINF:-1 group-title="Arabic Channels",الدوري والكأس 2
+#EXTVLCOPT:
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+
+#EXTINF:-1 group-title="Arabic Channels",الدوري والكأس 3
+#EXTVLCOPT:
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+
+#EXTINF:-1 group-title="Arabic Channels",الدوري والكأس 4
+#EXTVLCOPT:
+http://alkasslive.streaming.mediaservices.windows.net/ec6a7a12-f666-4543-8537-0e39719f0565/e8450791-d467-4a88-bbd8-7080c72e9daa.ism/manifest(format=m3u8-aapl-v3)
+
+#EXTINF:-1 group-title="Arabic Channels",الدوري والكأس 5
+#EXTVLCOPT:
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
 #EXTINF:-1 group-title="Arabic Channels",حنبعل
 #EXTVLCOPT:
 http://bbcwslive.mmdlive.lldns.net/bbcwslive/333091d555e2404785a0339bf4779ac1/subtitlelist_leng_b256000.m3u8
 
+#EXTINF:-1 group-title="Arabic Channels",نسمة
+#EXTVLCOPT:
+http://livecdnh2.tvanywhere.ae/ss/nessma.isml/Manifest
+
 #EXTINF:-1 group-title="Arabic Channels",حنبعل رابط بديل
 #EXTVLCOPT:
 http://www.elahmad.com/tv/vlc/player_glarab.php?id=hannibal
 
-#EXTINF:-1 group-title="Arabic Channels",دبي الاولى
+#EXTINF:-1 group-title="Arabic Channels",العالم
 #EXTVLCOPT:
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1800000.m3u8
+http://live2.alalam.ir/alalam.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",دبي الرياضية 1
+#EXTINF:-1 group-title="Arabic Channels",المسيرة اليمن
 #EXTVLCOPT:
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",دبي الرياضية 2
+#EXTINF:-1 group-title="Arabic Channels",القناة 9
 #EXTVLCOPT:
-http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
+https://5a69dcfbbc91d.streamlock.net/custom/alqanat9/chunklist_w1894940078.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",دبي الرياضية 3
+#EXTINF:-1 group-title="Arabic Channels",بلاد الحرمين
 #EXTVLCOPT:
-http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_w812227654_b2000000.m3u8
+http://streamer12.elementssys.com:8080/SAUDI-Channels/BELAD-HARAMEN/playlist.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",دبي الرياضية 4
+#EXTINF:-1 group-title="Arabic Channels",وصال حق
 #EXTVLCOPT:
-http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1200000.m3u8
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/23228.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",دبي زمان
+#EXTINF:-1 group-title="Arabic Channels",السودان
 #EXTVLCOPT:
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
+http://199.167.151.237:1935/live/sp15_13.stream/gmswf.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",دبي ون
+#EXTINF:-1 group-title="Arabic Channels",كيف الاردن
 #EXTVLCOPT:
-http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
+http://185.27.116.54:1935/livestream/kifa.stream_360p/gmswf.m3u8?v=1559312404
 
-#EXTINF:-1 group-title="Arabic Channels",دجلة العراق
+#EXTINF:-1 group-title="Arabic Channels",الأردن اليوم
 #EXTVLCOPT:
-http://1324425059@91.134.145.75:10001/Dijlah/index.m3u8
+http://streaming.i-sat.tv:1935/livestream/ALordonAlyoom/chunklist_w1804984779.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",درر الشام
+#EXTINF:-1 group-title="Arabic Channels",المغربية الأولى
 #EXTVLCOPT:
-http://de.live.net.sa:1935/live/dorar/gmswf.m3u8
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",دزاير الجزائر
+#EXTINF:-1 group-title="Arabic Channels",2M المغرب القناة الثانية
 #EXTVLCOPT:
-http://premium-play.org:8000/live/saidclt201/XmQat4ju/10356.m3u8
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
 
-#EXTINF:-1 group-title="Movies",دعدوش 2017
+#EXTINF:-1 group-title="Arabic Channels",المغربية الثالثة الرياضية
 #EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2017/12/26/Hindi%20arabic/Da3Doosh.2017.HDRip.1080p.akoam.com.mkv
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-video=400000-audio_AACL_qad_130400_110=130400.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",دعوة
+#EXTINF:-1 group-title="Arabic Channels",المغربية الرابعة
 #EXTVLCOPT:
-http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-video=400000-audio_AACL_qad_130400_110=130400.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",ديزني
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",ديزني 2
-#EXTVLCOPT:
-http://176.31.225.191:8081/live/Cartoon/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",رؤية
-#EXTVLCOPT:
-http://streaming.i-sat.tv:1935/livestream/Roya/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",راديو العالم
-#EXTVLCOPT:
-http://radio.garden/
-
-#EXTINF:-1 group-title="Arabic Channels",راية فلسطين
-#EXTVLCOPT:
-http://vstream3.hadara.ps:8081/RayaHD2_web/web/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies",رغدة متوحشة 2018
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/09/06/Raghda.Motwahasha.HDTV.720p.Shahid4U.ME.mp4
-
-#EXTINF:-1 group-title="Arabic Channels",روتانا أفلام
-#EXTVLCOPT:
-http://livecdnh3.tvanywhere.ae/ss/rotaflam.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",روتانا أفلام بديل
-#EXTVLCOPT:
-http://www.elahmad.com/tv/watch.php?id=rotana_aflam
-
-#EXTINF:-1 group-title="Arabic Channels",روتانا خليجية
-#EXTVLCOPT:
-http://89.163.140.211:8787/ROTANA_KHALIJI/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",روتانا خليجية بديل
-#EXTVLCOPT:
-http://www.elahmad.com/tv/watchtv.php?id=rotana_khlijia
-
-#EXTINF:-1 group-title="Arabic Channels",روتانا دراما
-#EXTVLCOPT:sky123
-http://livecdnh3.tvanywhere.ae/ss/rotmas.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",روتانا دراما بديل
-#EXTVLCOPT:
-http://www.elahmad.com/tv/filmo.php?file=2612
-
-#EXTINF:-1 group-title="Arabic Channels",روتانا سينما
-#EXTVLCOPT:
-http://livecdnh3.tvanywhere.ae/ss/rotcinema.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",روتانا سينما بديل
-#EXTVLCOPT:
-http://www.elahmad.com/tv/filmo.php?file=2615
-
-#EXTINF:-1 group-title="Arabic Channels",روتانا كلاسيك
-#EXTVLCOPT:
-http://185.27.116.54:1935/livestream/rtca/chunklist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",روتانا كلاسيك بديل
-#EXTVLCOPT:
-http://www.elahmad.com/tv/filmo.php?file=2609
-
-#EXTINF:-1 group-title="Arabic Channels",روتانا كليب
-#EXTVLCOPT:
-http://livecdnh3.tvanywhere.ae/ss/rotclip.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",روتانا مصرية
-#EXTVLCOPT:
-http://www.teledunet.tv:8888/rotana_masriya.m3u8?channel=rotana_masriya&idu=ros_86570442900
-
-#EXTINF:-1 group-title="Arabic Channels",روتانا موسيقى
-#EXTVLCOPT:
-http://livecdnh3.tvanywhere.ae/ss/rotmusic.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",روتانا موسيقى بديل
-#EXTVLCOPT:
-http://www.elahmad.com/tv/filmo.php?file=2600
-
-#EXTINF:-1 group-title="Arabic Channels",روسيا اليوم
-#EXTVLCOPT:
-http://www.elahmad.com/tv/m3u8/rt.m3u8?id=ara1
-
-#EXTINF:-1 group-title="Arabic Channels",ريال مدريد
-#EXTVLCOPT:
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_2_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title="Arabic Channels",زوينة بلدنا الأردن ويب
-#EXTVLCOPT:
-http://www.elahmad.com/tv/videojs/?id=zweinabaladna&t=m
-
-#EXTINF:-1 group-title="Arabic Channels",سامراء العراقية
-#EXTVLCOPT:
-http://212.18.231.213:1935/samarra/ngrp:samarra_all/chunklist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",ساهور السودان ويب
-#EXTVLCOPT:
-http://www.elahmad.com/tv/videojs/?id=sahourtv&t=m
-
-#EXTINF:-1 group-title="Arabic Channels",سبيس تون
-#EXTVLCOPT:
-http://95.170.215.124/live/disk1/Spacetoon/anevia1/Spacetoon-video=1279600-audio_AACL_ara_160000_34=160000.m3u8
-
-#EXTINF:-1 group-title="Movies",سطو مثلث 2016
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2017/08/21/Triple.Burglary.2016.HD1080-AKOAM.COM.mkv
-
-#EXTINF:-1 group-title="Arabic Channels",سعودي 24
-#EXTVLCOPT:
-http://streamer12.elementssys.com:8080/SAUDI-Channels/SAUDI_24/index.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",سكاي نيوز عربية HD
-#EXTVLCOPT:
-https://stream.skynewsarabia.com/hls/sna.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",سما
-#EXTVLCOPT:
-https://svs.itworkscdn.net/samatvlive/sama.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",سما دبي
-#EXTVLCOPT:
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",سما رابط بديل
-#EXTVLCOPT:
-http://www.elahmad.com/tv/vlc/player_glarab.php?id=samatv
-
-#EXTINF:-1 group-title="Arabic Channels",سمسم
-#EXTVLCOPT:
-http://wowzaprod188-i.akamaihd.net/hls/live/729648/aef554b6/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies",سمكة وصنارة 2017
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/10/21/Samaka.We.Senara.2017.720p.HD.MovizLand.Online.mp4
-
-#EXTINF:-1 group-title="Arabic Channels",سميرة الجزائر
-#EXTVLCOPT:
-http://144.217.76.52:8080/SAMIRATV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",سهيل اليمن
-#EXTVLCOPT:
-http://82.212.74.98:8000/live/hls/7726.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",سودانية 24
-#EXTVLCOPT:
-http://217.182.137.206/sudania24.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",سودانية 24 ويب
-#EXTVLCOPT:
-http://www.elahmad.com/tv/vlc/player_glarab.php?id=sudan24
-
-#EXTINF:-1 group-title="Arabic Channels",سوريا
-#EXTVLCOPT:
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",سوريانا
-#EXTVLCOPT:
-http://82.137.248.16:1935/Souryana/stream20112018/chunklist_w747104219.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",سورية دراما
-#EXTVLCOPT:
-http://82.137.248.16:1935/Drama/stream20112018/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",سيتروس الإمارات
-#EXTVLCOPT:
-http://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",سيرفر بديل لجميع القنوات
-#EXTVLCOPT:
-http://www.elahmad.com/tv/mobiletv/
-
-#EXTINF:-1 group-title="Arabic Channels",شام تي في
-#EXTVLCOPT:
-http://shamfm.grtvstream.com:1984/live/shamfm_SD.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",صدى البلد الأولى مصر
-#EXTVLCOPT:
-http://www.elahmad.com/tv/youtube.php?id=BaladtvLive
-
-#EXTINF:-1 group-title="Arabic Channels",صدى البلد الثانية مصر
-#EXTVLCOPT:
-http://www.elahmad.com/tv/vlc/player_glarab.php?id=sadaalbalad2
-
-#EXTINF:-1 group-title="Arabic Channels",صدى البلد دراما مصر
-#EXTVLCOPT:
-http://www.elahmad.com/tv/vlc/player_glarab.php?id=sadaalbaladdrama
-
-#EXTINF:-1 group-title="Arabic Channels",صنعاء
-#EXTVLCOPT:
-http://82.212.74.3:8000/live/7510.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",صوت الساحل تونس
-#EXTVLCOPT:
-https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8
-
-#EXTINF:-1 group-title="Movies",طربال رايح جاي 2018
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/10/24/Tarpila.Rayh.Gy.2018.1080p.HD.MovizLand.Online.mp4
-
-#EXTINF:-1 group-title="Movies",طلق صناعي 2018
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/04/04/Arabic/Tal2.Sena3y.720P.HD.akoam.com.mkv
-
-#EXTINF:-1 group-title="Arabic Channels",طه
-#EXTVLCOPT:
-http://alwhdat.net/stream/live/taha/
-
-#EXTINF:-1 group-title="Arabic Channels",طيبة السودان
-#EXTVLCOPT:
-http://199.167.151.237:1935/live/sp15_17.stream/gmswf.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",طيور الجنة
-#EXTVLCOPT:yacinetv1234
-http://95.170.215.124/live/disk1/Toyor_Al_Janah/anevia1/Toyor_Al_Janah-video=1098400-audio_AACL_eng_160000_34=160000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",طيور الجنة ويب
-#EXTVLCOPT:
-http://www.elahmad.com/tv/vlc/player_glarab.php?id=toyoraljanah
-
-#EXTINF:-1 group-title="Movies",طيور الغاضبة
-#EXTVLCOPT:
-http://up4iraq.com/do.php?down=12986.mp4
-
-#EXTINF:-1 group-title="Arabic Channels",طيور بيبي
-#EXTVLCOPT:
-http://95.170.215.124/live/disk1/TOYOR-BABY/anevia1/TOYOR-BABY-video=790400-audio_AACL_ara_160000_34=160000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",طيور بيبي بديل
-#EXTVLCOPT:
-http://95.170.215.124/live/disk1/TOYOR-BABY/anevia1/TOYOR-BABY-video=790400-audio_AACL_ara_160000_34=160000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",عدن اليمن
-#EXTVLCOPT:
-http://82.212.74.3:8000/live/7510.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",عشتار العراق
+#EXTINF:-1 group-title="Arabic Channels",المغربية السادسة
 #EXTVLCOPT:
-http://162.244.81.145:4436/live/ishtar/playlist.m3u8
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-video=400000-audio_AACL_qad_130400_110=130400.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",عمان
+#EXTINF:-1 group-title="Arabic Channels",المغربية الثامنة
 #EXTVLCOPT:
-http://38.96.148.35:1935/live/omantv01/chunklist_w1396190289.m3u8
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",عمان إف ام الاردن
+#EXTINF:-1 group-title="Arabic Channels",المغربية 1 العيون
 #EXTVLCOPT:
-http://stream.joinvisions.net:1935/Jordantv/Amman-FM-Audio/chunklist.m3u8
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",عمان الأردن ويب
+#EXTINF:-1 group-title="Arabic Channels",المغربية الخامسة الأخبارية
 #EXTVLCOPT:
-https://livestream.com/accounts/3320102/events/7612516/player
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
 
 #EXTINF:-1 group-title="Arabic Channels",عمان الثقافية
 #EXTVLCOPT:
@@ -2067,189 +1123,517 @@ http://38.96.148.35:1935/live/omantv04/chunklist_w453582173.m3u8
 #EXTVLCOPT:
 http://38.96.148.35:1935/live/omantv02/chunklist_w160819835.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",عمان مباشر
+#EXTINF:-1 group-title="Arabic Channels",الشارقة الرياضية
 #EXTVLCOPT:
-http://38.96.148.35:1935/live/omantv03/chunklist_w2090208946.m3u8
+http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies",عمر المختار 1981
+#EXTINF:-1 group-title="Arabic Channels",ON سبورت
 #EXTVLCOPT:
-https://egymax.top/home/filaty/EgyMax.ToP_Omar_Elmokhtar.mp4
+http://streaming.i-sat.tv:1935/livestream/sno/chunklist_w1634629321.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",عمر وسلمى 2 2009
+#EXTINF:-1 group-title="Arabic Channels",ريال مدريد
 #EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/10/24/reg/[EgyBest
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_2_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group-title="Movies",عنتر ابن ابن ابن شداد 2017
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/01/21/1/Anter.Ebn.Ebn.Ebn.Shadad.HDTV.720p.akoam.com.mkv
+#EXTINF:-1 group-title="Arabic Channels",الشروق نيوز جزائر
+#EXTVLCOPT:yacinetv1234
+http://tv-live.echoroukonline.com:8081/echo/EchoroukNews_SD/chunks.m3u8
 
-#EXTINF:-1 group-title="Movies",فاصل ونعود 2011
+#EXTINF:-1 group-title="Arabic Channels",عمان
 #EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/09/23/reg/Fasel.Wa.Na3oud.HDTV.720p.Shahid4U.TV.mkv
+http://38.96.148.35:1935/live/omantv01/chunklist_w1396190289.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",فرنسا 24
+#EXTINF:-1 group-title="Arabic Channels",التلفزيون الأردني
 #EXTVLCOPT:
-http://static.france24.com/live/F24_AR_LO_HLS/live_ios.m3u8
+http://livecdnh2.tvanywhere.ae/ss/jordan.isml/Manifest
 
-#EXTINF:-1 group-title="Movies",فص ملح وداخ 2016
+#EXTINF:-1 group-title="Arabic Channels",الشرقية من كلباء
 #EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/09/30/Shahid4U.ME.Just.Vanished.WR.HD720.mkv
+http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/chunklist_b625000.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",فلسطين
+#EXTINF:-1 group-title="Arabic Channels",الفجيرة
 #EXTVLCOPT:
-http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+http://ccfz.dyndns.org:8282/hls-live/fujtv/_definst_/liveevent/livestream.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",فلسطين الرياضية ويب
+#EXTINF:-1 group-title="Arabic Channels",الوسطى
 #EXTVLCOPT:
-http://www.elahmad.com/tv/videojs/?id=palestinesport&t=m
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/gmswf.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",فلسطين مباشر
+#EXTINF:-1 group-title="Arabic Channels",البحرين الرياضية
 #EXTVLCOPT:
-http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",فلسطيني
+#EXTINF:-1 group-title="Arabic Channels",الملكوت
 #EXTVLCOPT:
-rtmp://82.212.74.98/live//7904
+http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",فنون
+#EXTINF:-1 group-title="Arabic Channels",ايات
 #EXTVLCOPT:
-http://livecdnh3.tvanywhere.ae/ss/funoon.isml/Manifest
+http://m.live.net.sa:1935/live/ayat/chunklist_w2078329880.m3u8
 
-#EXTINF:-1 group-title="Movies",قسطي بيوجعني 2018
+#EXTINF:-1 group-title="Arabic Channels",المسيرة الأخبار اليمنية
 #EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/06/22/Qsoty.Byogaany.HD720P.akoam.net.mkv
+https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",قطر
+#EXTINF:-1 group-title="Arabic Channels",راديو العالم
 #EXTVLCOPT:
-http://b-qtv-i.akamaihd.net/hls/live/213233/QTV/index30.m3u8
+http://radio.garden/
 
-#EXTINF:-1 group-title="Arabic Channels",قناة الأقصى
+#EXTINF:-1 group-title="Arabic Channels",أهل القرآن
 #EXTVLCOPT:
-http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
+rtmp://live.ezwp.tv/livestream//0664f22e-aa91-443a-bee9-4b9028ebfd93
 
-#EXTINF:-1 group-title="Arabic Channels",قناة فن الحياة
+#EXTINF:-1 group-title="Arabic Channels",عدن اليمن
 #EXTVLCOPT:
-http://82.212.74.98:8000/live/7802.m3u8
+http://82.212.74.3:8000/live/7510.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الشرعية اليمن
+#EXTVLCOPT:
+http://streamer12.elementssys.com:8080/SAUDI-Channels/AL-SHAREYYAH/index.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",نايل الدولية مصر
+#EXTVLCOPT:
+https://www.maspero.eg/player/LivePlayer/channelPlayer.html?ChannelName=NileInternational&Poster=false
+
+#EXTINF:-1 group-title="Arabic Channels",الحياة المسيحية مصر
+#EXTVLCOPT:
+http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",نور أغاني لبنان
+#EXTVLCOPT:
+https://svs.itworkscdn.net/nour5satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",نور مريم لبنان
+#EXTVLCOPT:
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",نور القداس لبنان
+#EXTVLCOPT:
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",نور الشرق
+#EXTVLCOPT:
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",نور الشباب لبنان
+#EXTVLCOPT:
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",نور روح لبنان
+#EXTVLCOPT:
+https://svs.itworkscdn.net/nour6satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الوطنية الأولى تونس
+#EXTVLCOPT:yacinetv1234
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/57.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الوطنية الثانية تونس
+#EXTVLCOPT:yacinetv1234
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/58.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الزيتونة تونس
+#EXTVLCOPT:
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/13.m3u8?v=1409130514
+
+#EXTINF:-1 group-title="Arabic Channels",إفريقيا الأولى
+#EXTVLCOPT:
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",إفريقيا الثانية 
+#EXTVLCOPT:
+http://africatv.live.net.sa:1935/live/africatv2/gmswf.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",المغاربية
+#EXTVLCOPT:
+https://cdn001.atnnetwork.tv/atnProvider/magharibia_480p/chunks.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",المغاربية ويب
+#EXTVLCOPT:
+https://livestream.com/accounts/7861901/events/6247367/player
+
+#EXTINF:-1 group-title="Arabic Channels",أضواء الأردن
+#EXTVLCOPT:
+http://streaming.i-sat.tv:1935/livestream/light/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الأردن الرياضية
+#EXTVLCOPT:
+http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",المناصير الأردن
+#EXTVLCOPT:
+http://streaming.i-sat.tv:1935/live/manaseer/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الشرق المصرية
+#EXTVLCOPT:
+http://149.202.79.190:8081/elsharqtv/publish/chunks.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",صدى البلد دراما مصر
+#EXTVLCOPT:
+http://www.elahmad.com/tv/vlc/player_glarab.php?id=sadaalbaladdrama
+
+#EXTINF:-1 group-title="Arabic Channels",صدى البلد الأولى مصر
+#EXTVLCOPT:
+http://www.elahmad.com/tv/youtube.php?id=BaladtvLive
+
+#EXTINF:-1 group-title="Arabic Channels",صدى البلد الثانية مصر
+#EXTVLCOPT:
+http://www.elahmad.com/tv/vlc/player_glarab.php?id=sadaalbalad2
+
+#EXTINF:-1 group-title="Arabic Channels",النيل مصر
+#EXTVLCOPT:
+https://www.maspero.eg/player/LivePlayer/channelPlayer.html?ChannelName=Nilenew&Poster=false
 
 #EXTINF:-1 group-title="Arabic Channels",كايرو سينما
 #EXTVLCOPT:
 http://s1.xtra-sat.net:8000/live/Med_Med/58119734/107.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",كراميش
+#EXTINF:-1 group-title="Arabic Channels",المصرية
 #EXTVLCOPT:
-http://95.170.215.124/live/disk1/Karamish/anevia1/Karamish-video=1279600-audio_AACL_ara_160000_34=160000.m3u8
+https://www.maspero.eg/player/LivePlayer/channelPlayer.html?ChannelName=Almasrya&Poster=false
 
-#EXTINF:-1 group-title="Arabic Channels",كراميش رابط بديل
+#EXTINF:-1 group-title="Arabic Channels",المصرية الأولى
 #EXTVLCOPT:
-http://alwhdat.net/stream/live/karameesh/
+https://www.maspero.eg/player/LivePlayer/channelPlayer.html?ChannelName=Channelone&Poster=false
 
-#EXTINF:-1 group-title="Arabic Channels",كرتون بيتوورك عربية
+#EXTINF:-1 group-title="Arabic Channels",المصرية الثانية
 #EXTVLCOPT:
-http://95.170.215.124/live/disk1/CN_Arabia/anevia1/CN_Arabia-video=1279600-audio_AACL_eng_160000_34=160000.m3u8
+https://www.maspero.eg/player/LivePlayer/channelPlayer.html?ChannelName=ChannelTwo&Poster=false
 
-#EXTINF:-1 group-title="Arabic Channels",كنال الجزائر
+#EXTINF:-1 group-title="Arabic Channels",بانوراما فيلم
 #EXTVLCOPT:
-http://54.36.122.126/canal_algerie.m3u8
+http://alwhdat.net/embed.php?cid=panoramafilm
+
+#EXTINF:-1 group-title="Arabic Channels",بانوراما دراما
+#EXTVLCOPT:
+http://alwhdat.net/stream/live/panoramadrama/
+
+#EXTINF:-1 group-title="Arabic Channels",دزاير الجزائر
+#EXTVLCOPT:
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10356.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",سميرة الجزائر
+#EXTVLCOPT:
+http://144.217.76.52:8080/SAMIRATV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",نوميديا الجزائر
+#EXTVLCOPT:yacinetv1234
+http://configuration.tn:8000/live/SFCdtoZXOb/tvZVatJk0L/1599.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",بنة TV الجزائر
+#EXTVLCOPT:
+http://tv-live.echoroukonline.com:8081/echo/EchoroukBenna_SD/chunks.m3u8?v=
+
+#EXTINF:-1 group-title="Arabic Channels",النهار تي في الجزائرية
+#EXTVLCOPT:
+http://tv-live.echoroukonline.com:8081/entv/EnnaharTV_SD/chunks.m3u8
 
 #EXTINF:-1 group-title="Arabic Channels",كنال الجزائر ويب
 #EXTVLCOPT:
 http://www.elahmad.com/tv/vlc/player_glarab.php?id=canalalgerie
 
-#EXTINF:-1 group-title="Arabic Channels",كوجي كيدز مصر
+#EXTINF:-1 group-title="Arabic Channels",الجزائرية الثالثة ويب
 #EXTVLCOPT:
-http://68.235.60.118:1935/koogi.tv/koogi.smil/playlist.m3u8
+http://www.elahmad.com/tv/vlc/player_glarab.php?id=thalitha
 
-#EXTINF:-1 group-title="Arabic Channels",كوست عربية
+#EXTINF:-1 group-title="Arabic Channels",الجزائرية الثالثة
 #EXTVLCOPT:
-http://95.170.215.124/live/disk1/QUEST-ARABIYA/anevia1/QUEST-ARABIYA-video=1098400-audio_AACL_ara_160000_34=160000.m3u8
+http://configuration.tn:8000/live/SFCdtoZXOb/tvZVatJk0L/1685.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",كيف الاردن
-#EXTVLCOPT:
-http://185.27.116.54:1935/livestream/kifa.stream_360p/gmswf.m3u8?v=1559312404
+#EXTINF:-1 group-title="Arabic Channels",الجزائرية الرابعة
+#EXTVLCOPT:yacinetv1234
+http://configuration.tn:8000/live/SFCdtoZXOb/tvZVatJk0L/1682.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",لنا
+#EXTINF:-1 group-title="Arabic Channels",الجزائرية الرابعة ويب
 #EXTVLCOPT:
-https://svs.itworkscdn.net/lanatvlive/lana/chunklist_DVR.m3u8
+https://playtv.fr/player/embed/tamazight-tv-4/
 
-#EXTINF:-1 group-title="Arabic Channels",لنا بديل
+#EXTINF:-1 group-title="Arabic Channels",الجزائرية الخامسة القرأن الكريم
 #EXTVLCOPT:
-http://95.170.215.124/live/disk1/LANATV/anevia1/LANATV.m3u8
+http://configuration.tn:8000/live/SFCdtoZXOb/tvZVatJk0L/1644.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",لنا بلاس
+#EXTINF:-1 group-title="Arabic Channels",الجزائرية الخامسة القرأن الكريم ويب
 #EXTVLCOPT:
-https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
+https://playtv.fr/player/embed/coran-tv-5/
 
-#EXTINF:-1 group-title="Arabic Channels",ليبيا
-#EXTVLCOPT:
-http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
+#EXTINF:-1 group-title="Arabic Channels",بور تيفي الجزائر
+#EXTVLCOPT:yacinetv1234
+http://configuration.tn:8000/live/SFCdtoZXOb/tvZVatJk0L/1600.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",ليبيا 218
-#EXTVLCOPT:
-http://95.85.47.43/218tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Arabic Channels",الهداف الجزائرية
+#EXTVLCOPT:yacinetv1234
+http://yacinetv1.ddns.net:8000/yacinetv553/yacinetv553/182
 
-#EXTINF:-1 group-title="Arabic Channels",ليبيا 218 أخبار
+#EXTINF:-1 group-title="Arabic Channels",المجلس الكويت
 #EXTVLCOPT:
-http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",ليبيا الحدث
+#EXTINF:-1 group-title="Arabic Channels",الكويت الرياضية
 #EXTVLCOPT:
-http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8
+http://svs.itworkscdn.net/ktvsportslive/smil:ksports.smil/chunklist_b2400000.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",ليبيا الوطن
+#EXTINF:-1 group-title="Arabic Channels",MTA3 القناة الأحمدية
 #EXTVLCOPT:
-http://185.27.116.54:1935/livestream/libyaelwatan/chunklist_w717715659.m3u8
+http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_1700_av-p.m3u8
 
-#EXTINF:-1 group-title="Movies",ليلة هناء وسرور 2018
+#EXTINF:-1 group-title="Arabic Channels",الإرث النبوي
 #EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2018/11/25/The.Night.of.Hana.and.Sorour.HDTV.720P.Shahid4U.ME.mkv
+rtmp://82.212.74.2/live//7207
 
-#EXTINF:-1 group-title="Arabic Channels",ماب نيوز المغرب
+#EXTINF:-1 group-title="Movies",هروب اضطراري 2018
 #EXTVLCOPT:
-https://www.maptvnews.ma/live/smil:OutStream1.smil/chunklist_b4500000_sleng.m3u8
+http://50.7.161.202/movies/Movies/2017/12/26/Hindi%20arabic/Forced.Escape.2017.HDRip.1080p.akoam.com.mkv
 
-#EXTINF:-1 group-title="Arabic Channels",ماجد
+#EXTINF:-1 group-title="Movies",قسطي بيوجعني 2018
 #EXTVLCOPT:
-http://95.170.215.124/live/disk1/Majid_Kids/anevia1/Majid_Kids.m3u8
+http://50.7.161.202/movies/Movies/2018/06/22/Qsoty.Byogaany.HD720P.akoam.net.mkv
 
-#EXTINF:-1 group-title="Arabic Channels",مدي 1 المغرب
+#EXTINF:-1 group-title="Movies",رغدة متوحشة 2018
 #EXTVLCOPT:
-http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w1967123858.m3u8
+http://50.7.161.202/movies/Movies/2018/09/06/Raghda.Motwahasha.HDTV.720p.Shahid4U.ME.mp4
 
-#EXTINF:-1 group-title="Movies",مرح تي في أطفال
+#EXTINF:-1 group-title="Movies",عمر المختار 1981
 #EXTVLCOPT:
-http://up4iraq.com/do.php?down=13635.mp4
+https://egymax.top/home/filaty/EgyMax.ToP_Omar_Elmokhtar.mp4
 
-#EXTINF:-1 group-title="Arabic Channels",مزيكا مصر
+#EXTINF:-1 group-title="Movies",عنتر ابن ابن ابن شداد 2017
 #EXTVLCOPT:
-http://95.170.215.124/live/disk1/Mazzika/anevia1/Mazzika-video=1279600-audio_AACL_eng_160000_34=160000.m3u8
+http://50.7.161.202/movies/Movies/2018/01/21/1/Anter.Ebn.Ebn.Ebn.Shadad.HDTV.720p.akoam.com.mkv
 
-#EXTINF:-1 group-title="Arabic Channels",مساواة فلسطين
+#EXTINF:-1 group-title="Movies",دعدوش 2017
 #EXTVLCOPT:
-http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
+http://50.7.161.202/movies/Movies/2017/12/26/Hindi%20arabic/Da3Doosh.2017.HDRip.1080p.akoam.com.mkv
 
-#EXTINF:-1 group-title="Arabic Channels",مصدر
+#EXTINF:-1 group-title="Movies",تصبح على خير 2017
 #EXTVLCOPT:
-http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
+http://50.7.161.202/movies/Movies/2017/12/09/Good.Night.2017.1080P.HD.akoam.com.mkv
 
-#EXTINF:-1 group-title="Arabic Channels",معا الفلسطينية
+#EXTINF:-1 group-title="Movies",القرموطي في ارض النار 2017
 #EXTVLCOPT:
-http://vstream2.hadara.ps:8081/MaanHD_web/web/chunks.m3u8
+http://50.7.161.202/movies/Movies/2017/10/12/Al.Armouty.Fe.Ard.AlNar.HDTV.1080p.akoam.com.mkv
 
-#EXTINF:-1 group-title="Arabic Channels",مكة
+#EXTINF:-1 group-title="Movies",أخلاق العبيد 2017
 #EXTVLCOPT:
-http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
+http://50.7.161.202/movies/Movies/2017/10/30/The.Morals.Of.Slaves.2017.HDRip.akoam.Com.mkv
 
-#EXTINF:-1 group-title="Arabic Channels",مكملين مصر
+#EXTINF:-1 group-title="Movies",بغمضة عين 2017
 #EXTVLCOPT:
-http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+http://50.7.161.202/movies/Movies/2017/11/12/In.One.Blink.Of.An.Eye.2017.HDRip.akoam.Com.mkv
+
+#EXTINF:-1 group-title="Movies",بارتي في حارتي 2016
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2017/05/11/Party.In.My-.Alley.2016.HDRip.720p.akoam.com.mkv
+
+#EXTINF:-1 group-title="Movies",جواب اعتقال 2017
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2017/10/03/Gawab.Eteqal.HDTV.1080p.akoam.com.mkv
+
+#EXTINF:-1 group-title="Movies",ولاد رزق 2017
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2017/10/05/Welad.Rezk.HD.1080p.akoam.com.mkv
+
+#EXTINF:-1 group-title="Movies",Rampage
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/06/20/Shahid4U.TV.Rampage.2018.720p.WEB-DL.mkv
+
+#EXTINF:-1 group-title="Movies",Avengers: Infinity War
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/08/01/Avengers.Infinity.War.2018.720p.BluRay.Shahid4U.NeT.mkv
+
+#EXTINF:-1 group-title="Movies",Death Race 4: Beyond Anarchy 2018
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=14178.mp4
+
+#EXTINF:-1 group-title="Movies",Tomb Raider
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/06/02/Tomb.Raider.2018.720p.BluRay.akoam.net.mkv
+
+#EXTINF:-1 group-title="Movies",Looking Glass (2018)
+#EXTVLCOPT:
+http://178.132.5.56/APX/EnglishMovies/Looking.Glass.mkv
+
+#EXTINF:-1 group-title="Movies",O Escaravelho do Diabo
+#EXTVLCOPT:
+http://178.132.5.56/APX/EnglishMovies/O.Escaravelho.do.Diabo.mkv
+
+#EXTINF:-1 group-title="Movies",The Commuter (2018) 
+#EXTVLCOPT:
+http://178.132.5.56/APX/EnglishMovies/The-Commuter.mkv
+
+#EXTINF:-1 group-title="Movies",Tuntematon sotilas (2017)
+#EXTVLCOPT:
+http://178.132.5.56/APX/EnglishMovies/Tuntematon.sotilas.mkv
+
+#EXTINF:-1 group-title="Movies",Solo: A Star Wars Story 2018
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=12896.mp4
+
+#EXTINF:-1 group-title="Movies",The First Purge 2018
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=12895.mp4
+
+#EXTINF:-1 group-title="Movies",Jurassic World: Fallen Kingdom 2018
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/09/08/jurassic.world.fallen.kingdom.2018.360p.bluray.Shahid4U.ME.mkv
+
+#EXTINF:-1 group-title="Movies",Summer of 84 2018
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=14182.mp4
+
+#EXTINF:-1 group-title="Movies",Siberia 2018
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/09/09/Shahid4U.ME.siberia.2018.bdrip.mkv
+
+#EXTINF:-1 group-title="Movies",The Meg 2018
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/09/17/Shahid4U.ME.the.Meg..2018.360p.HC.HDRip.mkv
+
+#EXTINF:-1 group-title="Movies",Skyscraper 2018
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/09/06/Skyscraper.2018.720p.WEB-DL.Shahid4U.ME.mkv
+
+#EXTINF:-1 group-title="Movies",Ant-Man and the Wasp 2018
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=14179.mp4
+
+#EXTINF:-1 group-title="Movies",Anon 2018
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=14181.mp4
+
+#EXTINF:-1 group-title="Movies",Billy Lynn's Long Halftime Walk 2016
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/10/06/reg/Billy.Lynns.Long.Halftime.Walk.2016.BluRay.720p.x264.Shahid4U.CoM.mp4
+
+#EXTINF:-1 group-title="Movies",The Fate of the Furious (2017)
+#EXTVLCOPT:
+http://178.132.5.56/APX/EnglishMovies/The-Fate-of-the-Furious2017.mkv
+
+#EXTINF:-1 group-title="Movies",Unfriended: Dark Web 2018
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=14180.mp4
+
+#EXTINF:-1 group-title="Movies",طيور الغاضبة
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=12986.mp4
+
+#EXTINF:-1 group-title="Movies",Cars 3 
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=12987.mp4
+
+#EXTINF:-1 group-title="Movies",Despicable Me 3
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=12988.mp4
+
+#EXTINF:-1 group-title="Movies",next gen
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=12989.mp4
+
+#EXTINF:-1 group-title="Movies",Ferdinand
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=12990.mp4
+
+#EXTINF:-1 group-title="Movies",Barbie Dolphin Magic
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=12991.mp4
+
+#EXTINF:-1 group-title="Movies",Coco
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=12992.mp4
+
+#EXTINF:-1 group-title="Movies",Barbie Star Light Adventure
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=13002.mp4
+
+#EXTINF:-1 group-title="Movies",السنافر
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=13000.mp4
+
+#EXTINF:-1 group-title="Movies",Trolls
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=13001.mp4
+
+#EXTINF:-1 group-title="Movies",Buzz Lightyear
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=13003.mp4
+
+#EXTINF:-1 group-title="Movies",Brother Bear 1
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=13011.mp4
+
+#EXTINF:-1 group-title="Movies",Elena and the Secret of Avalor
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=13012.mp4
+
+#EXTINF:-1 group-title="Movies",Sing 2016
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=13013.mp4
+
+#EXTINF:-1 group-title="Movies",الحياة السرية للحيوانات
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=13014.mp4
+
+#EXTINF:-1 group-title="Movies",The Pirates Band Of Misfits
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=13015.mp4
+
+#EXTINF:-1 group-title="Movies",Super Monsters Save Halloween 2018 الوحوش اللطفاء
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=14183.mp4
 
 #EXTINF:-1 group-title="Movies",موانا
 #EXTVLCOPT:
 http://up4iraq.com/do.php?down=13016.mp4
 
-#EXTINF:-1 group-title="Arabic Channels",مودي كيدز
+#EXTINF:-1 group-title="Arabic Channels",نبأ أخبارية سعودية
 #EXTVLCOPT:
-http://alwhdat.net/stream/live/modykids/
+http://31.14.40.238:1935/live/Nabaa/chunklist_w588990199.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",المجد
+#EXTVLCOPT:REDLINECLIENTANDROIDOTT1.0.01
+http://163.172.87.153:8080/y0rmeSPVO2/v6Isn56uEl/4125
+
+#EXTINF:-1 group-title="Arabic Channels",المجد قرأن كريم
+#EXTVLCOPT:
+http://199.167.151.237:1935/live/nsahs19_24.stream/gmswf.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",المجد حديث
+#EXTVLCOPT:
+http://199.167.151.237:1935/live/sp15_32.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",المجد العلمية
+#EXTVLCOPT:
+http://199.167.151.237:1935/live/sp15_29.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Universal Somali TV
+#EXTVLCOPT:
+https://5928f90056f31.streamlock.net/universal-live/universal/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",سودانية 24
+#EXTVLCOPT:
+http://217.182.137.206/sudania24.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",سودانية 24 ويب
+#EXTVLCOPT:
+http://www.elahmad.com/tv/vlc/player_glarab.php?id=sudan24
+
+#EXTINF:-1 group-title="Arabic Channels",النيل الأزرق السودان
+#EXTVLCOPT:
+http://livecdnh2.tvanywhere.ae/ss/blue_nile.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",النيلين الرياضية السودانية
+#EXTVLCOPT:
+http://www.elahmad.com/tv/vlc/player_glarab.php?id=98
+
+#EXTINF:-1 group-title="Arabic Channels",ام درمان السودان
+#EXTVLCOPT:
+http://www.elahmad.com/tv/vlc/player_glarab.php?id=101
+
+#EXTINF:-1 group-title="Arabic Channels",جيم بديل
+#EXTVLCOPT:
+http://livecdnh2.tvanywhere.ae/ss/jeem.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",براعم بديل
+#EXTVLCOPT:
+http://livecdnh2.tvanywhere.ae/ss/baraeim.isml/Manifest
 
 #EXTINF:-1 group-title="Arabic Channels",ميلودي أفلام
 #EXTVLCOPT:
@@ -2263,33 +1647,645 @@ http://38.96.148.163/MelodyDrama/smil:drama.smil/chunklist_b500000.m3u8
 #EXTVLCOPT:
 http://38.96.148.163/MelodyClassic/smil:classic.smil/chunklist_b500000.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",ميوزك الحنين
+#EXTINF:-1 group-title="Arabic Channels",سيتروس الإمارات
 #EXTVLCOPT:
-http://streaming.i-sat.tv:1935/livestream/MusicAl-haneen/chunklist.m3u8
+http://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",YAS TV الامارات
+#EXTVLCOPT:
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",القرين الكويت
+#EXTVLCOPT:
+http://svs.itworkscdn.net/ktvpluslive/smil:kplus.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",اثراء الكويت
+#EXTVLCOPT:
+http://svs.itworkscdn.net/ktvethraalive/smil:kethraa.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الحياة الأولى
+#EXTVLCOPT:
+http://livecdnh2.tvanywhere.ae/ss/hayat.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",الحياة الثانية
+#EXTVLCOPT:
+http://configuration.tn:8000/live/SFCdtoZXOb/tvZVatJk0L/157.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الحياة مسلسلات
+#EXTVLCOPT:
+http://configuration.tn:8000/live/SFCdtoZXOb/tvZVatJk0L/515.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الفجر 1 فلسطين
+#EXTVLCOPT:
+http://217.21.0.215:8081/AlfajertvHD1_web/web/chunks.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الفجر 2 فلسطين
+#EXTVLCOPT:
+http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",راية فلسطين
+#EXTVLCOPT:
+http://vstream3.hadara.ps:8081/RayaHD2_web/web/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",القاهرة والناس 1
+#EXTVLCOPT:
+http://livecdnh2.tvanywhere.ae/ss/kahera_nas.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",النهار مصر
+#EXTVLCOPT:
+http://livecdnh2.tvanywhere.ae/ss/nahar_sd.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",النهار دراما مصر
+#EXTVLCOPT:
+http://livecdnh2.tvanywhere.ae/ss/nahar_sd_drama.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",الاستقامة عمان
+#EXTVLCOPT:
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",البحرين القران الكريم
+#EXTVLCOPT:
+http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",فلسطين
+#EXTVLCOPT:
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",فلسطين مباشر
+#EXTVLCOPT:
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",معا الفلسطينية
+#EXTVLCOPT:
+http://vstream2.hadara.ps:8081/MaanHD_web/web/chunks.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",النجاح فلسطين
+#EXTVLCOPT:
+http://htvpalsat.mada.ps:8888/najah/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",مساواة فلسطين
+#EXTVLCOPT:
+http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",مكملين مصر
+#EXTVLCOPT:
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Télé Maroc المغرب
+#EXTVLCOPT:
+https://livestream.com/accounts/27130247/events/8196478/player
+
+#EXTINF:-1 group-title="Arabic Channels",سعودي 24
+#EXTVLCOPT:
+http://streamer12.elementssys.com:8080/SAUDI-Channels/SAUDI_24/index.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",بدوية دراما
+#EXTVLCOPT:
+http://www.jawaltv.com/flsh/garabm.php?id=AlAmakenDrama&session=e97318f94efdadb9ef47896eb5feed2a6ea33909bd2ecf0abb33a04762c26834
+
+#EXTINF:-1 group-title="Arabic Channels",كوجي كيدز مصر
+#EXTVLCOPT:
+http://68.235.60.118:1935/koogi.tv/koogi.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",TRT ÇOCUK
+#EXTVLCOPT:
+https://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",TRT WORLD
+#EXTVLCOPT:
+https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720p_av-p.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",TRT SPOR
+#EXTVLCOPT:
+https://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-p.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",TRT AVAZ
+#EXTVLCOPT:
+https://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_1200_av-p.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",TRT MUZIK
+#EXTVLCOPT:
+https://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1200_av-p.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",TRT OKUL
+#EXTVLCOPT:
+https://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الحوار التونسي
+#EXTVLCOPT:
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/91.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",التاسعة التونسية
+#EXTVLCOPT:
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/56.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",السودانية دراما
+#EXTVLCOPT:
+http://217.182.137.206/sudan_drama.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",السعودية 24 العائلة
+#EXTVLCOPT:
+http://streamer12.elementssys.com:8080/SAUDI-Channels/Family/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",إنجازات السعودية
+#EXTVLCOPT:
+http://streamer12.elementssys.com:8080/SAUDI-Channels/SAUDI_ENJAZAT/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",المجد المسيحية
+#EXTVLCOPT:
+https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/chunklist_w1221986584_b1500000_t64SEQ=.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",العراقية أخبار
+#EXTVLCOPT:
+http://95.170.215.124/live/disk1/Al-Iraqiya_News/anevia1/Al-Iraqiya_News-video=1279600-audio_AACL_eng_160000_34=160000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",العراقية الرياضية
+#EXTVLCOPT:
+http://95.170.215.124/live/disk1/Iraqia-Sport/anevia1/Iraqia-Sport-video=1279600-audio_AACL_eng_160000_34=160000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",بيتي السعودية
+#EXTVLCOPT:
+rtmp://82.212.74.99/live//8064
+
+#EXTINF:-1 group-title="Arabic Channels",التغيير العراقية ويب
+#EXTVLCOPT:
+https://livestream.com/accounts/17678123/events/8170529/player?width=960&height=540&enableInfoAndActivity=true&defaultDrawer=feed&autoPlay=true&mute=false
+
+#EXTINF:-1 group-title="Arabic Channels",الشرقية نيوز العراقية
+#EXTVLCOPT:
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1882993117.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الديار العراقية
+#EXTVLCOPT:
+rtmp://82.212.74.99/live//8066
+
+#EXTINF:-1 group-title="Arabic Channels",الفلوجة ويب
+#EXTVLCOPT:
+https://livestream.com/accounts/4671269/events/4213685/player?width=960&height=540&enableInfoAndActivity=true&defaultDrawer=feed&autoPlay=true&mute=false
+
+#EXTINF:-1 group-title="Arabic Channels",سامراء العراقية
+#EXTVLCOPT:
+http://212.18.231.213:1935/samarra/ngrp:samarra_all/chunklist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الحدث العراقية
+#EXTVLCOPT:
+http://streamer12.elementssys.com:8080/demo/Hadath/index.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",هنا بغداد ويب
+#EXTVLCOPT:
+http://www.elahmad.com/tv/vlc/player_glarab.php?id=honabagdad
+
+#EXTINF:-1 group-title="Arabic Channels",المسار الأولى العراقية
+#EXTVLCOPT:
+http://212.18.231.213:1935/almasar/ngrp:almasar_all/chunklist_w2000820017_b2179072.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",MBC 1
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/MBC-1-HD.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الحرة عراق
+#EXTVLCOPT:
+http://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_528.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",المعالي الكويت
+#EXTVLCOPT:
+http://free.flashwebtown.com:1935/bashaclick/myStream.sdp/chunklist_w1314214926.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",العهد العراقية
+#EXTVLCOPT:
+rtmp://176.241.91.122/livepkgr//alahad
+
+#EXTINF:-1 group-title="Arabic Channels",السومرية ويب
+#EXTVLCOPT:
+http://www.elahmad.com/tv/embed.php?id=alsumaria
+
+#EXTINF:-1 group-title="Movies",تراب الماس 2018
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/11/26/Trab.El.Mas.2018.720p.HD.MovizLand.Online.mp4
+
+#EXTINF:-1 group-title="Movies",ليلة هناء وسرور 2018
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/11/25/The.Night.of.Hana.and.Sorour.HDTV.720P.Shahid4U.ME.mkv
+
+#EXTINF:-1 group-title="Movies",البلد دي فيهاة حكومة 2008
+#EXTVLCOPT:
+http://up4iraq.com/do.php?down=26595.mkv
+
+#EXTINF:-1 group-title="Movies",جحيم في الهند 2016
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2017/08/21/Inferno.In.India.2016.HD1080.akoam.com.mkv
+
+#EXTINF:-1 group-title="Movies",الحرب العالمية الثالثة 2014
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/12/20/reg/World.War.III.HD.1080p.Shahid4U.TV.mkv
+
+#EXTINF:-1 group-title="Movies",الهرم الرابع 2016
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2017/08/21/The.Fourth.Pyramid.2016.HD720.akoam.com.mkv
+
+#EXTINF:-1 group-title="Arabic Channels",MBC 2
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/MBC-2-HD.m3u8
+
+#EXTINF:-1 group-title="Movies",طلق صناعي 2018
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/04/04/Arabic/Tal2.Sena3y.720P.HD.akoam.com.mkv
+
+#EXTINF:-1 group-title="Movies",يجعلو عامر 2017
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2017/09/07/Yeg3alo.3amer.2017.HDRip.1080p.akoam.com.mkv
+
+#EXTINF:-1 group-title="Movies",سطو مثلث 2016
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2017/08/21/Triple.Burglary.2016.HD1080-AKOAM.COM.mkv
+
+#EXTINF:-1 group-title="Movies",وه 2016
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2017/02/19/1/CiNeMaLeK.CoM.Woh.2017.720p.HD.mkv.mp4
+
+#EXTINF:-1 group-title="Movies",أبو شنب 2016
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2017/08/21/Abu.Shanab.2016.HD1080.akoam.com.mkv
+
+#EXTINF:-1 group-title="Movies",بالحلال 2015
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2017/02/18/Halal.Love.2015.720p.HDRip.MR.ZAZA.mkv
+
+#EXTINF:-1 group-title="Movies",الكويسين 2018
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/12/09/The.Kowess.Family.HDTV.720P.Shahid4U.NeT.mkv
+
+#EXTINF:-1 group-title="Movies",أمان يا صاحبي 2017
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/11/25/Aman.Ya.Sohby.2017.1080p.HD.MovizLand.Online.mp4
+
+#EXTINF:-1 group-title="Arabic Channels",عمر وسلمى 2 2009
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/10/24/reg/[EgyBest
+
+#EXTINF:-1 group-title="Movies",طربال رايح جاي 2018
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/10/24/Tarpila.Rayh.Gy.2018.1080p.HD.MovizLand.Online.mp4
+
+#EXTINF:-1 group-title="Arabic Channels",MBC 3
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/MBC-3-HD.m3u8
+
+#EXTINF:-1 group-title="Movies",سمكة وصنارة 2017
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/10/21/Samaka.We.Senara.2017.720p.HD.MovizLand.Online.mp4
+
+#EXTINF:-1 group-title="Movies",فص ملح وداخ 2016
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/09/30/Shahid4U.ME.Just.Vanished.WR.HD720.mkv
+
+#EXTINF:-1 group-title="Movies",فاصل ونعود 2011
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/09/23/reg/Fasel.Wa.Na3oud.HDTV.720p.Shahid4U.TV.mkv
+
+#EXTINF:-1 group-title="Movies",الي بالي بالك 2003
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/09/23/reg/film%20ili%20bali%20balak.mp4
+
+#EXTINF:-1 group-title="Movies",تيتة رهيبة 2012
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/09/20/reg/Teta.Raheba.2012.1080p.HD.Cima4U.mp4
+
+#EXTINF:-1 group-title="Arabic Channels",آسف على الازعاج 2008
+#EXTVLCOPT:
+http://50.7.161.202/movies/Movies/2018/09/18/reg/ZXD002.Assef.Ala.Al.Izaag.2008.BluRay.720p.x264.MP4
+
+#EXTINF:-1 group-title="Arabic Channels",مدي 1 المغرب
+#EXTVLCOPT:
+http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w1967123858.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",فلسطيني
+#EXTVLCOPT:
+rtmp://82.212.74.98/live//7904
+
+#EXTINF:-1 group-title="Arabic Channels",الماهر الأردن
+#EXTVLCOPT:
+rtmp://82.212.74.98/live//7903
+
+#EXTINF:-1 group-title="Arabic Channels",نايلات السعودية
+#EXTVLCOPT:
+rtmp://82.212.74.3/live//7405
+
+#EXTINF:-1 group-title="Arabic Channels",MBC 4
+#EXTVLCOPT:REDLINECLIENTANDROIDOTT1.0.01
+http://livecdnh3.tvanywhere.ae/ss/mbc4.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",DMM سعودية
+#EXTVLCOPT:
+rtmp://82.212.74.2/live//7214
+
+#EXTINF:-1 group-title="Arabic Channels",الفرسان سعودية
+#EXTVLCOPT:
+rtmp://82.212.74.2/live//7204
 
 #EXTINF:-1 group-title="Arabic Channels",ميوزك الرماس العراق
 #EXTVLCOPT:
 http://95.170.215.124/live/disk1/Music_Alremas/anevia1/Music_Alremas.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",ناشيونال جيوغرافيك أبو ظبي
+#EXTINF:-1 group-title="Arabic Channels",جوسات الأردن
 #EXTVLCOPT:
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=natgeotv
+rtmp://82.212.74.98/live//7914
 
-#EXTINF:-1 group-title="Arabic Channels",نايل الثقافية
+#EXTINF:-1 group-title="Arabic Channels",المملكة الأردنية
 #EXTVLCOPT:
-http://niobzca.cf:8080/live/george01/george02/73444.m3u8
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",نايل الدولية مصر
+#EXTINF:-1 group-title="Arabic Channels",عمان الأردن ويب
 #EXTVLCOPT:
-https://www.maspero.eg/player/LivePlayer/channelPlayer.html?ChannelName=NileInternational&Poster=false
+https://livestream.com/accounts/3320102/events/7612516/player
 
-#EXTINF:-1 group-title="Arabic Channels",نايل العائلة
+#EXTINF:-1 group-title="Arabic Channels",عمان إف ام الاردن
 #EXTVLCOPT:
-http://niobzca.cf:8080/live/george01/george02/113341.m3u8
+http://stream.joinvisions.net:1935/Jordantv/Amman-FM-Audio/chunklist.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",نايل دراما
+#EXTINF:-1 group-title="Arabic Channels",القاهرة والناس 2
 #EXTVLCOPT:
-http://livecdnh2.tvanywhere.ae/ss/nile_drama.isml/Manifest
+http://www.elahmad.com/tv/vlc/player_glarab.php?id=alkaherawalnas2
+
+#EXTINF:-1 group-title="Arabic Channels",تلفزيون وطن مصر
+#EXTVLCOPT:
+http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الفتح مصر
+#EXTVLCOPT:
+https://svs.itworkscdn.net/alfatehlive/fatehtv/chunklist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",MBC Max
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/MBC-MAX-HD.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",المحور مصر
+#EXTVLCOPT:
+https://livestreaming5.onlinehorizons.net/hls-live/MehwarTVOnline/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",البنا تي في الجزائرية
+#EXTVLCOPT:
+http://82.212.74.99:8000/live/hls/8171.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",القدس التربوية
+#EXTVLCOPT:
+http://streaming.qou.edu:1935/live/smil:Stream.smil/chunklist_b1928000_sleng.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",سهيل اليمن
+#EXTVLCOPT:
+http://82.212.74.98:8000/live/hls/7726.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",اور العراق
+#EXTVLCOPT:
+http://82.212.74.99:8000/live/hls/8162.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",تلفزة تونس
+#EXTVLCOPT:
+http://configuration.tn:8000/live/SFCdtoZXOb/tvZVatJk0L/33.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",كنال الجزائر
+#EXTVLCOPT:
+http://54.36.122.126/canal_algerie.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",MBC Drama
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/MBC-DRAMA-HD.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الفلسطينية
+#EXTVLCOPT:
+http://htvmada.mada.ps:8888/ftv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Kurdsat
+#EXTVLCOPT:
+http://95.170.215.124/live/disk1/Kurdsat/anevia1/Kurdsat.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Waar TV
+#EXTVLCOPT:
+http://95.170.215.124/live/disk1/Waar_TV/anevia1/Waar_TV.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",KNN TV
+#EXTVLCOPT:
+http://95.170.215.124/live/disk1/KNN-TV/anevia1/KNN-TV.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Kurdmax Show TV
+#EXTVLCOPT:
+http://95.170.215.124/live/disk1/Kurdmax_Show_TV/anevia1/Kurdmax_Show_TV.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",KURDMAX
+#EXTVLCOPT:
+http://95.170.215.124/live/disk1/KURDMAX-B/anevia1/KURDMAX-B-video=2820800-audio_AACL_kur_160000_35=160000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",NET TV KURD HD
+#EXTVLCOPT:
+http://95.170.215.124/live/disk1/NET-TV-KURD-HD/anevia1/NET-TV-KURD-HD.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Rojava TV
+#EXTVLCOPT:
+http://95.170.215.124/live/disk1/Rojava-TV/anevia1/Rojava-TV-video=1279600-audio_AACL_ara_160000_34=160000.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",MBC Action
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/MBC-ACTION-HD.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",MBC Bollywood
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/MBC-Bollywood-HD.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",MBC Drama Plus
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/MBC-DRAMA-Plus.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",MBC VARIETY HD
+#EXTVLCOPT:Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/MBC-P-RAVIETY.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",MBC Masr
+#EXTVLCOPT:
+http://livecdnh2.tvanywhere.ae/ss/mbc_msr.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",Osn ياهلا سينما
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/OSN-Yahala-Cinem.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Osn ياهلا الأولى
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/OSN-YH-ALOLA.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",OSN FILM BOX
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/MY-FILM-BOX-HD.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Animal Planet
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",OSN موفيز الاولى
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/OSN-Movies-First.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",MBC Masr 2
+#EXTVLCOPT:Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/MBC-Masir-2.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",OSN موفيز اكشن
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/OSN-MOVIES-AC.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",OSN موفيز
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/OSN-MOVIES-HD.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Osn ياهلا
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/OSN-YH-HD.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",OSN موفيز أطفال
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/OSN-Movies-Kids.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",OSN موفيز Thrillr
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/OSN-Movies-Thril.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",OSN WWE
+#EXTVLCOPT:
+http://freeiptvdaily.net:8000/live/60s4fuHpxz/freeiptvdaily.tv/36.ts
+
+#EXTINF:-1 group-title="Arabic Channels",OSN الوثائقية
+#EXTVLCOPT:
+http://streaming.i-sat.tv:8081/livestream/discovery2/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Boomerang أطفال
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/Boomerang.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Nat Geo Wild
+#EXTVLCOPT:
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Nat Geo People
+#EXTVLCOPT:
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",وناسة
+#EXTVLCOPT:
+http://livecdnh2.tvanywhere.ae/ss/wanasah.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",Nat Geo
+#EXTVLCOPT:
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/02.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",FX
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/FX-HD.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Star World
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/Star-World-HD.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Star Movies
+#EXTVLCOPT:
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",ديزني
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",نيكلودين JR
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/Nickelodeon-JR.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",جولي بيل بالعربي
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/Gulli-Bil-Arabie.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",الأهلي مصر ويب
+#EXTVLCOPT:
+http://www.elahmad.com/tv/vlc/player_glarab.php?id=alahlytv
+
+#EXTINF:-1 group-title="Arabic Channels",زوينة بلدنا الأردن ويب
+#EXTVLCOPT:
+http://www.elahmad.com/tv/videojs/?id=zweinabaladna&t=m
+
+#EXTINF:-1 group-title="Arabic Channels",ساهور السودان ويب
+#EXTVLCOPT:
+http://www.elahmad.com/tv/videojs/?id=sahourtv&t=m
+
+#EXTINF:-1 group-title="Arabic Channels",RTD جيبوتي
+#EXTVLCOPT:
+http://www.elahmad.com/tv/videojs/?id=rtd&t=m
+
+#EXTINF:-1 group-title="Arabic Channels",بانوراما دراما 2 ويب
+#EXTVLCOPT:
+http://www.elahmad.com/tv/videojs/?id=panoramadrama2&t=m
+
+#EXTINF:-1 group-title="Arabic Channels",بانوراما كوميدي ويب
+#EXTVLCOPT:
+http://www.elahmad.com/tv/videojs/?id=panoramacomedy&t=m
+
+#EXTINF:-1 group-title="Arabic Channels",فلسطين الرياضية ويب
+#EXTVLCOPT:
+http://www.elahmad.com/tv/videojs/?id=palestinesport&t=m
+
+#EXTINF:-1 group-title="Arabic Channels",Peace سلام
+#EXTVLCOPT:
+http://199.167.151.237:1935/live/sp15_2.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Huda
+#EXTVLCOPT:
+http://199.167.151.237:1935/live/sp15_10.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",Fox
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120/hls/m3u8/Fox-HD.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",FOX Movies HD
+#EXTVLCOPT:
+http://185.27.116.54:8081/livestream/fox/chunks.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",FOX FAMILY MOVIS
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/FOX-FAMILY-MOV.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",MBC 1 بديل
+#EXTVLCOPT:
+http://livecdnh2.tvanywhere.ae/ss/mbc1.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",FOX Action Movies
+#EXTVLCOPT:
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",صوت الساحل تونس
+#EXTVLCOPT:
+https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",هلا بوليود
+#EXTVLCOPT:
+http://avasys.one:28109/live/toufik2004_573435/zXf69k7X/9038.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",هلا دراما
+#EXTVLCOPT:
+http://avasys.one:28109/live/toufik2004_573435/zXf69k7X/9037.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",هلا موفيز
+#EXTVLCOPT:
+http://avasys.one:28109/live/toufik2004_573435/zXf69k7X/9035.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",هلا سيريس
+#EXTVLCOPT:
+http://avasys.one:28109/live/toufik2004_573435/zXf69k7X/9034.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",هلا تورك
+#EXTVLCOPT:
+http://avasys.one:28109/live/toufik2004_573435/zXf69k7X/9033.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",MBC 2 بديل
+#EXTVLCOPT:
+http://livecdnh3.tvanywhere.ae/ss/mbc2.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",ماب نيوز المغرب
+#EXTVLCOPT:
+https://www.maptvnews.ma/live/smil:OutStream1.smil/chunklist_b4500000_sleng.m3u8
 
 #EXTINF:-1 group-title="Arabic Channels",نايل سبورت
 #EXTVLCOPT:
@@ -2299,122 +2295,126 @@ http://livecdnh2.tvanywhere.ae/ss/nile_sp.isml/Manifest
 #EXTVLCOPT:
 http://streaming.i-sat.tv:8081/livestream/nilecinema/playlist.m3u8
 
+#EXTINF:-1 group-title="Arabic Channels",نايل دراما
+#EXTVLCOPT:
+http://livecdnh2.tvanywhere.ae/ss/nile_drama.isml/Manifest
+
 #EXTINF:-1 group-title="Arabic Channels",نايل كوميدي
 #EXTVLCOPT:
 http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26582.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",MBC 3 بديل
+#EXTVLCOPT:
+http://livecdnh2.tvanywhere.ae/ss/mbc3.isml/Manifest
+
+#EXTINF:-1 group-title="Arabic Channels",نايل الثقافية
+#EXTVLCOPT:
+http://niobzca.cf:8080/live/george01/george02/73444.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",نايل العائلة
+#EXTVLCOPT:
+http://niobzca.cf:8080/live/george01/george02/113341.m3u8
 
 #EXTINF:-1 group-title="Arabic Channels",نايل لايف
 #EXTVLCOPT:
 http://niobzca.cf:8080/live/george01/george02/113338.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",نايلات السعودية
+#EXTINF:-1 group-title="Arabic Channels",مزيكا مصر
 #EXTVLCOPT:
-rtmp://82.212.74.3/live//7405
-
-#EXTINF:-1 group-title="Arabic Channels",نبأ أخبارية سعودية
-#EXTVLCOPT:
-http://31.14.40.238:1935/live/Nabaa/chunklist_w588990199.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",نسمة
-#EXTVLCOPT:
-http://livecdnh2.tvanywhere.ae/ss/nessma.isml/Manifest
-
-#EXTINF:-1 group-title="Arabic Channels",نور أغاني لبنان
-#EXTVLCOPT:
-https://svs.itworkscdn.net/nour5satlive/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",نور الشام
-#EXTVLCOPT:
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_nour
-
-#EXTINF:-1 group-title="Arabic Channels",نور الشباب لبنان
-#EXTVLCOPT:
-https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",نور الشرق
-#EXTVLCOPT:
-https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",نور القداس لبنان
-#EXTVLCOPT:
-https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",نور دبي
-#EXTVLCOPT:
-http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",نور روح لبنان
-#EXTVLCOPT:
-https://svs.itworkscdn.net/nour6satlive/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",نور مريم لبنان
-#EXTVLCOPT:
-https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",نوميديا الجزائر
-#EXTVLCOPT:yacinetv1234
-http://configuration.tn:8000/live/SFCdtoZXOb/tvZVatJk0L/1599.m3u8
-
-#EXTINF:-1 group-title="Arabic Channels",نيكلودين JR
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://95.170.215.118/hls/m3u8/Nickelodeon-JR.m3u8
+http://95.170.215.124/live/disk1/Mazzika/anevia1/Mazzika-video=1279600-audio_AACL_eng_160000_34=160000.m3u8
 
 #EXTINF:-1 group-title="Arabic Channels",هدهد
 #EXTVLCOPT:
 http://live.hodhodarabic.tv:1935/liveTrans2/_definst_/mp4:channel16/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies",هروب اضطراري 2018
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2017/12/26/Hindi%20arabic/Forced.Escape.2017.HDRip.1080p.akoam.com.mkv
+#EXTINF:-1 group-title="Arabic Channels",MBC 4 بديل
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/MBC-4-HD.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",هلا
+#EXTINF:-1 group-title="Arabic Channels",لنا بلاس
 #EXTVLCOPT:
-http://wowza.panet.co.il:1935/live/smil:halaTV.smil/playlist.m3u8
+https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",هلا بوليود
+#EXTINF:-1 group-title="Arabic Channels",MBC Drama بديل
 #EXTVLCOPT:
-http://avasys.one:28109/live/toufik2004_573435/zXf69k7X/9038.m3u8
+http://livecdnh2.tvanywhere.ae/ss/mbc_drama.isml/Manifest
 
-#EXTINF:-1 group-title="Arabic Channels",هلا تورك
+#EXTINF:-1 group-title="Arabic Channels",MBC Action بديل
 #EXTVLCOPT:
-http://avasys.one:28109/live/toufik2004_573435/zXf69k7X/9033.m3u8
+http://livecdnh3.tvanywhere.ae/ss/mbcaction.isml/Manifest
 
-#EXTINF:-1 group-title="Arabic Channels",هلا دراما
+#EXTINF:-1 group-title="Arabic Channels",MBC Max بديل
 #EXTVLCOPT:
-http://avasys.one:28109/live/toufik2004_573435/zXf69k7X/9037.m3u8
+http://livecdnh3.tvanywhere.ae/ss/mbcmax.isml/Manifest
 
-#EXTINF:-1 group-title="Arabic Channels",هلا سيريس
+#EXTINF:-1 group-title="Arabic Channels",MBC Bollywood بديل
 #EXTVLCOPT:
-http://avasys.one:28109/live/toufik2004_573435/zXf69k7X/9034.m3u8
+http://livecdnh2.tvanywhere.ae/ss/mbc_bolly.isml/Manifest
 
-#EXTINF:-1 group-title="Arabic Channels",هلا موفيز
+#EXTINF:-1 group-title="Arabic Channels",MBC Masr بديل
 #EXTVLCOPT:
-http://avasys.one:28109/live/toufik2004_573435/zXf69k7X/9035.m3u8
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/124.ts
 
-#EXTINF:-1 group-title="Arabic Channels",هنا بغداد ويب
-#EXTVLCOPT:
-http://www.elahmad.com/tv/vlc/player_glarab.php?id=honabagdad
+#EXTINF:-1 group-title="Arabic Channels",MBC Masr 2 بديل
+#EXTVLCOPT:Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/MBC-Masir-2.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",وصال
-#EXTVLCOPT:
-http://wesal.noorlive.com/wesal/wesal1/playlist.m3u8
+#EXTINF:-1 group-title="Arabic Channels",ART aflam 1
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120/hls/m3u8/ART-AFLAM-1.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",وصال حق
-#EXTVLCOPT:
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/23228.m3u8
+#EXTINF:-1 group-title="Arabic Channels",ART aflam 2
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120/hls/m3u8/ART-AFLAM-2.m3u8
 
-#EXTINF:-1 group-title="Movies",ولاد رزق 2017
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2017/10/05/Welad.Rezk.HD.1080p.akoam.com.mkv
+#EXTINF:-1 group-title="Arabic Channels",ART سينما
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120/hls/m3u8/ART-CINEMA.m3u8
 
-#EXTINF:-1 group-title="Arabic Channels",وناسة
-#EXTVLCOPT:
-http://livecdnh2.tvanywhere.ae/ss/wanasah.isml/Manifest
+#EXTINF:-1 group-title="Arabic Channels",ART حكايات 1
+#EXTVLCOPT:Lavf/56.15.102
+http://89.163.140.211:8787/ARTHikayat1/index.m3u8
 
-#EXTINF:-1 group-title="Movies",وه 2016
-#EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2017/02/19/1/CiNeMaLeK.CoM.Woh.2017.720p.HD.mkv.mp4
+#EXTINF:-1 group-title="Arabic Channels",ART حكايات 2
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120/hls/m3u8/ART-HEKAYAT-2.m3u8
 
-#EXTINF:-1 group-title="Movies",يجعلو عامر 2017
+#EXTINF:-1 group-title="Arabic Channels",ART حكايات 1 بديل
 #EXTVLCOPT:
-http://50.7.161.202/movies/Movies/2017/09/07/Yeg3alo.3amer.2017.HDRip.1080p.akoam.com.mkv
+http://89.163.140.211:8787/ARTHikayat1/index.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",ART حكايات 2 بديل
+#EXTVLCOPT:
+http://89.163.140.211:8787/ARTHikayat2/index.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",ART aflam 1 بديل
+#EXTVLCOPT:
+http://89.163.140.211:8787/ARTAflem1/index.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",ART aflam 2 بديل
+#EXTVLCOPT:
+http://89.163.140.211:8787/ARTAflem2/index.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",ART سينما 1 بديل
+#EXTVLCOPT:
+http://89.163.140.211:8787/ARTCinema/index.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",ألفا سينما
+#EXTVLCOPT:
+http://streaming.i-sat.tv:8081/livestream/osnm/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",ZEE Aflam
+#EXTVLCOPT:REDLINECLIENTANDROIDOTT1.0.01
+http://95.170.215.124/live/disk1/Zee_Aflam/anevia1/Zee_Aflam.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",ZEE ALWAN
+#EXTVLCOPT:
+http://95.170.215.124/live/disk1/ZEE-ALWAN/anevia1/ZEE-ALWAN.m3u8
+
+#EXTINF:-1 group-title="Arabic Channels",مودي كيدز
+#EXTVLCOPT:
+http://alwhdat.net/stream/live/modykids/
+
+#EXTINF:-1 group-title="Arabic Channels",طيور الجنة
+#EXTVLCOPT:yacinetv1234
+http://95.170.215.124/live/disk1/Toyor_Al_Janah/anevia1/Toyor_Al_Janah-video=1098400-audio_AACL_eng_160000_34=160000.m3u8
